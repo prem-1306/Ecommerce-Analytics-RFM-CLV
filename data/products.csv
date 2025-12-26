@@ -1,0 +1,1501 @@
+product_id,product_code,product_name,category,sub_category,cost_price,selling_price
+1,PROD00001,Electronics Mobiles 1,Electronics,Mobiles,80097.0,95952.74
+2,PROD00002,Furniture Storage 2,Furniture,Storage,5358.0,7344.1
+3,PROD00003,Electronics Accessories 3,Electronics,Accessories,16331.0,18158.75
+4,PROD00004,Furniture Chairs 4,Furniture,Chairs,18559.0,24884.05
+5,PROD00005,Furniture Storage 5,Furniture,Storage,23295.0,32159.45
+6,PROD00006,Home & Kitchen Cookware 6,Home & Kitchen,Cookware,3979.0,5314.78
+7,PROD00007,Electronics Laptops 7,Electronics,Laptops,118785.0,146830.16
+8,PROD00008,Furniture Chairs 8,Furniture,Chairs,13029.0,14864.58
+9,PROD00009,Home & Kitchen Cookware 9,Home & Kitchen,Cookware,3240.0,4662.35
+10,PROD00010,Clothing T-Shirts 10,Clothing,T-Shirts,2081.0,2735.46
+11,PROD00011,Home & Kitchen Cookware 11,Home & Kitchen,Cookware,4822.0,5869.68
+12,PROD00012,Clothing Jackets 12,Clothing,Jackets,987.0,1363.86
+13,PROD00013,Electronics Laptops 13,Electronics,Laptops,83861.0,125295.76
+14,PROD00014,Furniture Chairs 14,Furniture,Chairs,14455.0,17507.74
+15,PROD00015,Clothing T-Shirts 15,Clothing,T-Shirts,1716.0,2131.46
+16,PROD00016,Clothing Jackets 16,Clothing,Jackets,2999.0,4076.28
+17,PROD00017,Furniture Storage 17,Furniture,Storage,10021.0,11678.08
+18,PROD00018,Home & Kitchen Decor 18,Home & Kitchen,Decor,7880.0,10685.28
+19,PROD00019,Furniture Storage 19,Furniture,Storage,12626.0,18145.34
+20,PROD00020,Electronics Laptops 20,Electronics,Laptops,16414.0,23341.01
+21,PROD00021,Home & Kitchen Decor 21,Home & Kitchen,Decor,842.0,997.26
+22,PROD00022,Clothing T-Shirts 22,Clothing,T-Shirts,2884.0,3748.31
+23,PROD00023,Home & Kitchen Cookware 23,Home & Kitchen,Cookware,2469.0,2853.8
+24,PROD00024,Clothing Jackets 24,Clothing,Jackets,2594.0,3297.94
+25,PROD00025,Home & Kitchen Decor 25,Home & Kitchen,Decor,2096.0,3141.76
+26,PROD00026,Furniture Storage 26,Furniture,Storage,18171.0,20648.87
+27,PROD00027,Electronics Mobiles 27,Electronics,Mobiles,48066.0,64936.13
+28,PROD00028,Home & Kitchen Appliances 28,Home & Kitchen,Appliances,820.0,1028.2
+29,PROD00029,Home & Kitchen Appliances 29,Home & Kitchen,Appliances,2359.0,3511.21
+30,PROD00030,Electronics Mobiles 30,Electronics,Mobiles,148763.0,208320.43
+31,PROD00031,Clothing T-Shirts 31,Clothing,T-Shirts,1402.0,1786.02
+32,PROD00032,Home & Kitchen Cookware 32,Home & Kitchen,Cookware,6215.0,9013.87
+33,PROD00033,Clothing Jackets 33,Clothing,Jackets,931.0,1213.16
+34,PROD00034,Electronics Audio 34,Electronics,Audio,141080.0,189553.41
+35,PROD00035,Furniture Tables 35,Furniture,Tables,7293.0,9595.78
+36,PROD00036,Electronics Audio 36,Electronics,Audio,136085.0,150753.7
+37,PROD00037,Clothing Jeans 37,Clothing,Jeans,1180.0,1325.34
+38,PROD00038,Electronics Mobiles 38,Electronics,Mobiles,135399.0,193134.39
+39,PROD00039,Furniture Chairs 39,Furniture,Chairs,23618.0,30469.89
+40,PROD00040,Furniture Tables 40,Furniture,Tables,19290.0,27950.69
+41,PROD00041,Home & Kitchen Cookware 41,Home & Kitchen,Cookware,7909.0,10406.02
+42,PROD00042,Furniture Storage 42,Furniture,Storage,12214.0,15384.72
+43,PROD00043,Clothing Jeans 43,Clothing,Jeans,2319.0,2969.7
+44,PROD00044,Furniture Chairs 44,Furniture,Chairs,4098.0,5061.99
+45,PROD00045,Furniture Storage 45,Furniture,Storage,9216.0,10164.11
+46,PROD00046,Electronics Laptops 46,Electronics,Laptops,25668.0,37530.93
+47,PROD00047,Clothing T-Shirts 47,Clothing,T-Shirts,2305.0,2754.94
+48,PROD00048,Home & Kitchen Cookware 48,Home & Kitchen,Cookware,4717.0,5438.35
+49,PROD00049,Home & Kitchen Cookware 49,Home & Kitchen,Cookware,6727.0,8672.38
+50,PROD00050,Home & Kitchen Cookware 50,Home & Kitchen,Cookware,1072.0,1220.76
+51,PROD00051,Home & Kitchen Decor 51,Home & Kitchen,Decor,3769.0,4765.68
+52,PROD00052,Electronics Mobiles 52,Electronics,Mobiles,23889.0,30125.19
+53,PROD00053,Clothing T-Shirts 53,Clothing,T-Shirts,1218.0,1433.14
+54,PROD00054,Home & Kitchen Cookware 54,Home & Kitchen,Cookware,3756.0,4407.27
+55,PROD00055,Home & Kitchen Cookware 55,Home & Kitchen,Cookware,7463.0,10965.43
+56,PROD00056,Home & Kitchen Appliances 56,Home & Kitchen,Appliances,1102.0,1234.5
+57,PROD00057,Electronics Mobiles 57,Electronics,Mobiles,69965.0,81615.88
+58,PROD00058,Home & Kitchen Decor 58,Home & Kitchen,Decor,2051.0,2965.46
+59,PROD00059,Electronics Laptops 59,Electronics,Laptops,107345.0,118172.05
+60,PROD00060,Home & Kitchen Decor 60,Home & Kitchen,Decor,7890.0,11153.53
+61,PROD00061,Home & Kitchen Decor 61,Home & Kitchen,Decor,3765.0,5190.57
+62,PROD00062,Home & Kitchen Cookware 62,Home & Kitchen,Cookware,1855.0,2260.66
+63,PROD00063,Electronics Mobiles 63,Electronics,Mobiles,90209.0,101292.63
+64,PROD00064,Home & Kitchen Appliances 64,Home & Kitchen,Appliances,7831.0,11285.16
+65,PROD00065,Furniture Chairs 65,Furniture,Chairs,18640.0,21101.31
+66,PROD00066,Furniture Chairs 66,Furniture,Chairs,21498.0,24232.21
+67,PROD00067,Furniture Tables 67,Furniture,Tables,5928.0,8753.51
+68,PROD00068,Furniture Storage 68,Furniture,Storage,21481.0,23970.58
+69,PROD00069,Electronics Accessories 69,Electronics,Accessories,145044.0,177903.42
+70,PROD00070,Clothing T-Shirts 70,Clothing,T-Shirts,2943.0,4080.4
+71,PROD00071,Furniture Tables 71,Furniture,Tables,14969.0,17249.55
+72,PROD00072,Clothing Jeans 72,Clothing,Jeans,1495.0,2200.05
+73,PROD00073,Electronics Mobiles 73,Electronics,Mobiles,128136.0,172786.74
+74,PROD00074,Electronics Mobiles 74,Electronics,Mobiles,148937.0,176529.33
+75,PROD00075,Clothing T-Shirts 75,Clothing,T-Shirts,1629.0,2365.87
+76,PROD00076,Furniture Tables 76,Furniture,Tables,11338.0,13187.21
+77,PROD00077,Clothing Jackets 77,Clothing,Jackets,2878.0,3774.72
+78,PROD00078,Clothing Jackets 78,Clothing,Jackets,624.0,920.76
+79,PROD00079,Furniture Tables 79,Furniture,Tables,5782.0,8417.93
+80,PROD00080,Furniture Tables 80,Furniture,Tables,11232.0,15072.58
+81,PROD00081,Clothing T-Shirts 81,Clothing,T-Shirts,2797.0,4030.94
+82,PROD00082,Home & Kitchen Decor 82,Home & Kitchen,Decor,7716.0,11290.54
+83,PROD00083,Electronics Mobiles 83,Electronics,Mobiles,119037.0,170429.94
+84,PROD00084,Electronics Mobiles 84,Electronics,Mobiles,95439.0,134420.84
+85,PROD00085,Clothing T-Shirts 85,Clothing,T-Shirts,2009.0,2653.23
+86,PROD00086,Home & Kitchen Appliances 86,Home & Kitchen,Appliances,379.0,433.86
+87,PROD00087,Furniture Storage 87,Furniture,Storage,3180.0,4559.6
+88,PROD00088,Furniture Tables 88,Furniture,Tables,6176.0,6896.93
+89,PROD00089,Clothing T-Shirts 89,Clothing,T-Shirts,1665.0,1971.41
+90,PROD00090,Furniture Storage 90,Furniture,Storage,5368.0,6664.22
+91,PROD00091,Home & Kitchen Appliances 91,Home & Kitchen,Appliances,6439.0,7480.97
+92,PROD00092,Furniture Chairs 92,Furniture,Chairs,7801.0,11331.47
+93,PROD00093,Electronics Laptops 93,Electronics,Laptops,95080.0,134343.72
+94,PROD00094,Home & Kitchen Appliances 94,Home & Kitchen,Appliances,7378.0,10285.1
+95,PROD00095,Furniture Tables 95,Furniture,Tables,7216.0,10210.28
+96,PROD00096,Electronics Accessories 96,Electronics,Accessories,18151.0,26199.83
+97,PROD00097,Furniture Chairs 97,Furniture,Chairs,17083.0,21180.59
+98,PROD00098,Furniture Chairs 98,Furniture,Chairs,2775.0,3785.14
+99,PROD00099,Home & Kitchen Decor 99,Home & Kitchen,Decor,2582.0,3732.9
+100,PROD00100,Clothing Jeans 100,Clothing,Jeans,2827.0,3685.74
+101,PROD00101,Clothing T-Shirts 101,Clothing,T-Shirts,672.0,974.95
+102,PROD00102,Clothing T-Shirts 102,Clothing,T-Shirts,2578.0,3828.37
+103,PROD00103,Clothing T-Shirts 103,Clothing,T-Shirts,644.0,862.08
+104,PROD00104,Clothing Jackets 104,Clothing,Jackets,1484.0,1891.44
+105,PROD00105,Electronics Accessories 105,Electronics,Accessories,57828.0,69502.84
+106,PROD00106,Home & Kitchen Cookware 106,Home & Kitchen,Cookware,4559.0,6702.78
+107,PROD00107,Furniture Tables 107,Furniture,Tables,16132.0,18196.73
+108,PROD00108,Clothing Jackets 108,Clothing,Jackets,1485.0,2027.55
+109,PROD00109,Electronics Audio 109,Electronics,Audio,140939.0,172469.01
+110,PROD00110,Home & Kitchen Decor 110,Home & Kitchen,Decor,3596.0,4958.46
+111,PROD00111,Furniture Chairs 111,Furniture,Chairs,15777.0,21550.94
+112,PROD00112,Home & Kitchen Appliances 112,Home & Kitchen,Appliances,6428.0,9392.09
+113,PROD00113,Clothing Jeans 113,Clothing,Jeans,2444.0,3503.45
+114,PROD00114,Clothing Jeans 114,Clothing,Jeans,1060.0,1348.27
+115,PROD00115,Clothing Jeans 115,Clothing,Jeans,2009.0,2565.22
+116,PROD00116,Furniture Storage 116,Furniture,Storage,17505.0,24813.24
+117,PROD00117,Furniture Storage 117,Furniture,Storage,4778.0,5798.17
+118,PROD00118,Clothing T-Shirts 118,Clothing,T-Shirts,1162.0,1590.92
+119,PROD00119,Furniture Chairs 119,Furniture,Chairs,6828.0,7577.51
+120,PROD00120,Furniture Tables 120,Furniture,Tables,22030.0,31720.89
+121,PROD00121,Electronics Accessories 121,Electronics,Accessories,116643.0,169651.97
+122,PROD00122,Furniture Storage 122,Furniture,Storage,24818.0,31111.63
+123,PROD00123,Home & Kitchen Cookware 123,Home & Kitchen,Cookware,1508.0,2054.53
+124,PROD00124,Electronics Mobiles 124,Electronics,Mobiles,119449.0,141850.04
+125,PROD00125,Home & Kitchen Cookware 125,Home & Kitchen,Cookware,4866.0,5837.64
+126,PROD00126,Electronics Accessories 126,Electronics,Accessories,42954.0,61019.02
+127,PROD00127,Clothing Jeans 127,Clothing,Jeans,2709.0,3863.04
+128,PROD00128,Home & Kitchen Appliances 128,Home & Kitchen,Appliances,3952.0,5765.51
+129,PROD00129,Home & Kitchen Decor 129,Home & Kitchen,Decor,2423.0,3393.92
+130,PROD00130,Clothing Jackets 130,Clothing,Jackets,2184.0,2949.93
+131,PROD00131,Clothing Jeans 131,Clothing,Jeans,517.0,716.26
+132,PROD00132,Furniture Tables 132,Furniture,Tables,13005.0,15968.63
+133,PROD00133,Electronics Laptops 133,Electronics,Laptops,47539.0,56690.48
+134,PROD00134,Furniture Storage 134,Furniture,Storage,9010.0,10142.48
+135,PROD00135,Home & Kitchen Decor 135,Home & Kitchen,Decor,4745.0,6103.82
+136,PROD00136,Electronics Laptops 136,Electronics,Laptops,118138.0,148356.6
+137,PROD00137,Electronics Accessories 137,Electronics,Accessories,133037.0,146654.46
+138,PROD00138,Clothing Jeans 138,Clothing,Jeans,1797.0,2590.16
+139,PROD00139,Home & Kitchen Appliances 139,Home & Kitchen,Appliances,6423.0,8952.72
+140,PROD00140,Furniture Tables 140,Furniture,Tables,9190.0,11112.31
+141,PROD00141,Home & Kitchen Cookware 141,Home & Kitchen,Cookware,3485.0,4302.06
+142,PROD00142,Home & Kitchen Appliances 142,Home & Kitchen,Appliances,1652.0,2372.61
+143,PROD00143,Furniture Storage 143,Furniture,Storage,19502.0,21662.56
+144,PROD00144,Home & Kitchen Appliances 144,Home & Kitchen,Appliances,4923.0,6720.88
+145,PROD00145,Electronics Accessories 145,Electronics,Accessories,43572.0,63037.38
+146,PROD00146,Furniture Chairs 146,Furniture,Chairs,10524.0,13172.28
+147,PROD00147,Furniture Tables 147,Furniture,Tables,12710.0,15696.85
+148,PROD00148,Home & Kitchen Decor 148,Home & Kitchen,Decor,6460.0,9563.91
+149,PROD00149,Home & Kitchen Decor 149,Home & Kitchen,Decor,7139.0,8086.79
+150,PROD00150,Electronics Mobiles 150,Electronics,Mobiles,99740.0,118659.57
+151,PROD00151,Electronics Mobiles 151,Electronics,Mobiles,16134.0,23875.81
+152,PROD00152,Furniture Chairs 152,Furniture,Chairs,22359.0,25957.75
+153,PROD00153,Furniture Tables 153,Furniture,Tables,23936.0,27424.81
+154,PROD00154,Furniture Tables 154,Furniture,Tables,24920.0,29966.24
+155,PROD00155,Clothing T-Shirts 155,Clothing,T-Shirts,2681.0,3600.31
+156,PROD00156,Electronics Laptops 156,Electronics,Laptops,89536.0,102361.09
+157,PROD00157,Electronics Audio 157,Electronics,Audio,106384.0,133901.47
+158,PROD00158,Furniture Chairs 158,Furniture,Chairs,21401.0,29453.04
+159,PROD00159,Furniture Chairs 159,Furniture,Chairs,24845.0,35006.42
+160,PROD00160,Electronics Mobiles 160,Electronics,Mobiles,99017.0,130019.03
+161,PROD00161,Clothing T-Shirts 161,Clothing,T-Shirts,2272.0,3087.69
+162,PROD00162,Electronics Accessories 162,Electronics,Accessories,136503.0,155915.85
+163,PROD00163,Clothing Jackets 163,Clothing,Jackets,2083.0,2880.63
+164,PROD00164,Home & Kitchen Cookware 164,Home & Kitchen,Cookware,6311.0,8259.2
+165,PROD00165,Clothing Jackets 165,Clothing,Jackets,2404.0,3389.3
+166,PROD00166,Home & Kitchen Decor 166,Home & Kitchen,Decor,7064.0,9835.99
+167,PROD00167,Clothing Jeans 167,Clothing,Jeans,1205.0,1725.91
+168,PROD00168,Electronics Audio 168,Electronics,Audio,126175.0,151100.29
+169,PROD00169,Home & Kitchen Appliances 169,Home & Kitchen,Appliances,5299.0,7245.19
+170,PROD00170,Clothing T-Shirts 170,Clothing,T-Shirts,2224.0,3203.41
+171,PROD00171,Furniture Tables 171,Furniture,Tables,8950.0,11115.27
+172,PROD00172,Clothing Jeans 172,Clothing,Jeans,1345.0,1953.11
+173,PROD00173,Clothing Jackets 173,Clothing,Jackets,241.0,314.9
+174,PROD00174,Furniture Chairs 174,Furniture,Chairs,9908.0,13752.6
+175,PROD00175,Home & Kitchen Appliances 175,Home & Kitchen,Appliances,6510.0,7786.8
+176,PROD00176,Home & Kitchen Appliances 176,Home & Kitchen,Appliances,6131.0,7947.79
+177,PROD00177,Electronics Mobiles 177,Electronics,Mobiles,85132.0,101191.18
+178,PROD00178,Furniture Tables 178,Furniture,Tables,23756.0,31657.77
+179,PROD00179,Home & Kitchen Appliances 179,Home & Kitchen,Appliances,4649.0,5753.15
+180,PROD00180,Clothing Jeans 180,Clothing,Jeans,2058.0,2486.82
+181,PROD00181,Clothing T-Shirts 181,Clothing,T-Shirts,694.0,963.63
+182,PROD00182,Clothing T-Shirts 182,Clothing,T-Shirts,2394.0,3543.96
+183,PROD00183,Furniture Chairs 183,Furniture,Chairs,9090.0,12684.57
+184,PROD00184,Clothing Jackets 184,Clothing,Jackets,2614.0,3896.54
+185,PROD00185,Clothing T-Shirts 185,Clothing,T-Shirts,995.0,1212.41
+186,PROD00186,Clothing T-Shirts 186,Clothing,T-Shirts,1438.0,1589.94
+187,PROD00187,Furniture Tables 187,Furniture,Tables,3491.0,5200.61
+188,PROD00188,Clothing Jackets 188,Clothing,Jackets,717.0,971.64
+189,PROD00189,Home & Kitchen Cookware 189,Home & Kitchen,Cookware,7449.0,8230.45
+190,PROD00190,Clothing Jeans 190,Clothing,Jeans,2160.0,2756.57
+191,PROD00191,Furniture Chairs 191,Furniture,Chairs,10273.0,15167.32
+192,PROD00192,Home & Kitchen Cookware 192,Home & Kitchen,Cookware,7034.0,7921.25
+193,PROD00193,Home & Kitchen Cookware 193,Home & Kitchen,Cookware,5026.0,6794.04
+194,PROD00194,Electronics Laptops 194,Electronics,Laptops,47111.0,67107.59
+195,PROD00195,Clothing T-Shirts 195,Clothing,T-Shirts,1216.0,1395.21
+196,PROD00196,Home & Kitchen Appliances 196,Home & Kitchen,Appliances,5183.0,7340.66
+197,PROD00197,Furniture Storage 197,Furniture,Storage,14464.0,18516.9
+198,PROD00198,Home & Kitchen Decor 198,Home & Kitchen,Decor,7346.0,9809.92
+199,PROD00199,Home & Kitchen Decor 199,Home & Kitchen,Decor,4958.0,6685.42
+200,PROD00200,Electronics Laptops 200,Electronics,Laptops,63318.0,76352.55
+201,PROD00201,Electronics Laptops 201,Electronics,Laptops,70879.0,82894.79
+202,PROD00202,Electronics Laptops 202,Electronics,Laptops,8701.0,10992.9
+203,PROD00203,Home & Kitchen Decor 203,Home & Kitchen,Decor,567.0,676.2
+204,PROD00204,Clothing Jackets 204,Clothing,Jackets,2059.0,2323.52
+205,PROD00205,Furniture Tables 205,Furniture,Tables,22481.0,30032.72
+206,PROD00206,Furniture Tables 206,Furniture,Tables,5760.0,7590.67
+207,PROD00207,Furniture Tables 207,Furniture,Tables,6660.0,7516.24
+208,PROD00208,Furniture Tables 208,Furniture,Tables,21498.0,30088.24
+209,PROD00209,Clothing Jeans 209,Clothing,Jeans,709.0,912.82
+210,PROD00210,Clothing Jackets 210,Clothing,Jackets,1848.0,2729.63
+211,PROD00211,Home & Kitchen Decor 211,Home & Kitchen,Decor,958.0,1282.97
+212,PROD00212,Home & Kitchen Appliances 212,Home & Kitchen,Appliances,2940.0,3943.97
+213,PROD00213,Electronics Mobiles 213,Electronics,Mobiles,68011.0,100980.31
+214,PROD00214,Electronics Audio 214,Electronics,Audio,18546.0,26061.65
+215,PROD00215,Furniture Tables 215,Furniture,Tables,19005.0,25858.28
+216,PROD00216,Clothing T-Shirts 216,Clothing,T-Shirts,2597.0,3309.5
+217,PROD00217,Home & Kitchen Cookware 217,Home & Kitchen,Cookware,4150.0,5142.62
+218,PROD00218,Clothing Jeans 218,Clothing,Jeans,2944.0,3361.58
+219,PROD00219,Furniture Tables 219,Furniture,Tables,15488.0,21334.25
+220,PROD00220,Clothing Jackets 220,Clothing,Jackets,1840.0,2622.78
+221,PROD00221,Electronics Accessories 221,Electronics,Accessories,31084.0,38102.98
+222,PROD00222,Clothing T-Shirts 222,Clothing,T-Shirts,1855.0,2682.26
+223,PROD00223,Electronics Accessories 223,Electronics,Accessories,116330.0,130485.22
+224,PROD00224,Clothing Jackets 224,Clothing,Jackets,2241.0,3025.72
+225,PROD00225,Electronics Laptops 225,Electronics,Laptops,78007.0,102944.89
+226,PROD00226,Clothing Jeans 226,Clothing,Jeans,2185.0,2509.63
+227,PROD00227,Furniture Storage 227,Furniture,Storage,7189.0,8801.49
+228,PROD00228,Electronics Accessories 228,Electronics,Accessories,32434.0,38592.58
+229,PROD00229,Electronics Accessories 229,Electronics,Accessories,38793.0,52722.94
+230,PROD00230,Furniture Tables 230,Furniture,Tables,11563.0,15072.93
+231,PROD00231,Clothing Jeans 231,Clothing,Jeans,2176.0,3246.8
+232,PROD00232,Furniture Tables 232,Furniture,Tables,20063.0,23230.08
+233,PROD00233,Furniture Storage 233,Furniture,Storage,18654.0,26087.94
+234,PROD00234,Furniture Chairs 234,Furniture,Chairs,11052.0,15573.04
+235,PROD00235,Home & Kitchen Decor 235,Home & Kitchen,Decor,7953.0,11254.19
+236,PROD00236,Clothing T-Shirts 236,Clothing,T-Shirts,1358.0,1888.19
+237,PROD00237,Home & Kitchen Cookware 237,Home & Kitchen,Cookware,3958.0,5206.48
+238,PROD00238,Clothing Jeans 238,Clothing,Jeans,2460.0,3456.67
+239,PROD00239,Home & Kitchen Decor 239,Home & Kitchen,Decor,7941.0,9757.19
+240,PROD00240,Furniture Storage 240,Furniture,Storage,9825.0,13054.66
+241,PROD00241,Furniture Tables 241,Furniture,Tables,3430.0,4209.54
+242,PROD00242,Home & Kitchen Appliances 242,Home & Kitchen,Appliances,7782.0,11085.95
+243,PROD00243,Home & Kitchen Appliances 243,Home & Kitchen,Appliances,6791.0,9699.58
+244,PROD00244,Furniture Tables 244,Furniture,Tables,3213.0,3696.55
+245,PROD00245,Clothing T-Shirts 245,Clothing,T-Shirts,2003.0,2283.19
+246,PROD00246,Home & Kitchen Cookware 246,Home & Kitchen,Cookware,6218.0,7198.34
+247,PROD00247,Furniture Chairs 247,Furniture,Chairs,17384.0,24556.81
+248,PROD00248,Clothing Jeans 248,Clothing,Jeans,2752.0,3789.73
+249,PROD00249,Electronics Audio 249,Electronics,Audio,147885.0,185152.58
+250,PROD00250,Clothing Jackets 250,Clothing,Jackets,2198.0,3184.8
+251,PROD00251,Electronics Mobiles 251,Electronics,Mobiles,69543.0,94054.43
+252,PROD00252,Clothing T-Shirts 252,Clothing,T-Shirts,570.0,725.95
+253,PROD00253,Electronics Mobiles 253,Electronics,Mobiles,124307.0,145009.82
+254,PROD00254,Clothing T-Shirts 254,Clothing,T-Shirts,388.0,477.14
+255,PROD00255,Electronics Audio 255,Electronics,Audio,101969.0,127454.77
+256,PROD00256,Furniture Chairs 256,Furniture,Chairs,19405.0,24543.85
+257,PROD00257,Furniture Chairs 257,Furniture,Chairs,7736.0,8753.96
+258,PROD00258,Home & Kitchen Appliances 258,Home & Kitchen,Appliances,5896.0,7053.57
+259,PROD00259,Furniture Chairs 259,Furniture,Chairs,17110.0,23186.82
+260,PROD00260,Home & Kitchen Decor 260,Home & Kitchen,Decor,5762.0,6359.86
+261,PROD00261,Home & Kitchen Decor 261,Home & Kitchen,Decor,5850.0,7714.04
+262,PROD00262,Electronics Accessories 262,Electronics,Accessories,98587.0,147393.55
+263,PROD00263,Clothing Jackets 263,Clothing,Jackets,1937.0,2665.55
+264,PROD00264,Home & Kitchen Decor 264,Home & Kitchen,Decor,1931.0,2896.02
+265,PROD00265,Home & Kitchen Cookware 265,Home & Kitchen,Cookware,2243.0,2809.46
+266,PROD00266,Clothing Jackets 266,Clothing,Jackets,1411.0,2112.38
+267,PROD00267,Clothing T-Shirts 267,Clothing,T-Shirts,2896.0,3644.1
+268,PROD00268,Electronics Mobiles 268,Electronics,Mobiles,138214.0,198079.4
+269,PROD00269,Clothing T-Shirts 269,Clothing,T-Shirts,2686.0,3816.2
+270,PROD00270,Furniture Storage 270,Furniture,Storage,8230.0,11096.97
+271,PROD00271,Furniture Storage 271,Furniture,Storage,5183.0,7574.24
+272,PROD00272,Electronics Audio 272,Electronics,Audio,123559.0,137563.9
+273,PROD00273,Clothing Jackets 273,Clothing,Jackets,738.0,838.41
+274,PROD00274,Clothing Jeans 274,Clothing,Jeans,1901.0,2224.66
+275,PROD00275,Furniture Storage 275,Furniture,Storage,13988.0,18357.03
+276,PROD00276,Clothing T-Shirts 276,Clothing,T-Shirts,1252.0,1834.96
+277,PROD00277,Home & Kitchen Decor 277,Home & Kitchen,Decor,6415.0,9289.94
+278,PROD00278,Electronics Accessories 278,Electronics,Accessories,27739.0,32074.68
+279,PROD00279,Furniture Storage 279,Furniture,Storage,24098.0,35953.66
+280,PROD00280,Clothing T-Shirts 280,Clothing,T-Shirts,1816.0,2007.71
+281,PROD00281,Electronics Accessories 281,Electronics,Accessories,104622.0,143241.26
+282,PROD00282,Clothing Jackets 282,Clothing,Jackets,1760.0,2514.98
+283,PROD00283,Clothing T-Shirts 283,Clothing,T-Shirts,2964.0,3537.62
+284,PROD00284,Electronics Audio 284,Electronics,Audio,66030.0,89738.79
+285,PROD00285,Home & Kitchen Appliances 285,Home & Kitchen,Appliances,2775.0,3773.16
+286,PROD00286,Electronics Laptops 286,Electronics,Laptops,19887.0,29403.02
+287,PROD00287,Clothing Jeans 287,Clothing,Jeans,675.0,768.74
+288,PROD00288,Furniture Tables 288,Furniture,Tables,16864.0,21053.1
+289,PROD00289,Home & Kitchen Appliances 289,Home & Kitchen,Appliances,6380.0,8872.28
+290,PROD00290,Home & Kitchen Appliances 290,Home & Kitchen,Appliances,1111.0,1592.59
+291,PROD00291,Home & Kitchen Decor 291,Home & Kitchen,Decor,568.0,781.63
+292,PROD00292,Furniture Tables 292,Furniture,Tables,16571.0,24528.76
+293,PROD00293,Clothing T-Shirts 293,Clothing,T-Shirts,1704.0,2245.51
+294,PROD00294,Clothing T-Shirts 294,Clothing,T-Shirts,1830.0,2214.95
+295,PROD00295,Electronics Accessories 295,Electronics,Accessories,32031.0,43725.76
+296,PROD00296,Electronics Mobiles 296,Electronics,Mobiles,95427.0,114266.92
+297,PROD00297,Furniture Storage 297,Furniture,Storage,8724.0,9835.82
+298,PROD00298,Furniture Storage 298,Furniture,Storage,9076.0,12935.31
+299,PROD00299,Furniture Tables 299,Furniture,Tables,6835.0,9674.65
+300,PROD00300,Electronics Audio 300,Electronics,Audio,45929.0,68664.36
+301,PROD00301,Clothing T-Shirts 301,Clothing,T-Shirts,650.0,886.87
+302,PROD00302,Electronics Laptops 302,Electronics,Laptops,11895.0,14789.02
+303,PROD00303,Furniture Storage 303,Furniture,Storage,12609.0,13949.49
+304,PROD00304,Clothing T-Shirts 304,Clothing,T-Shirts,719.0,1004.22
+305,PROD00305,Electronics Mobiles 305,Electronics,Mobiles,132845.0,169949.95
+306,PROD00306,Clothing Jackets 306,Clothing,Jackets,2631.0,3008.87
+307,PROD00307,Furniture Storage 307,Furniture,Storage,3420.0,4756.87
+308,PROD00308,Clothing Jeans 308,Clothing,Jeans,2835.0,4211.71
+309,PROD00309,Electronics Accessories 309,Electronics,Accessories,113281.0,143924.58
+310,PROD00310,Electronics Accessories 310,Electronics,Accessories,124277.0,140357.98
+311,PROD00311,Electronics Audio 311,Electronics,Audio,46884.0,52804.18
+312,PROD00312,Clothing Jackets 312,Clothing,Jackets,2793.0,3726.27
+313,PROD00313,Clothing Jeans 313,Clothing,Jeans,2646.0,3472.14
+314,PROD00314,Home & Kitchen Appliances 314,Home & Kitchen,Appliances,5259.0,6689.87
+315,PROD00315,Electronics Laptops 315,Electronics,Laptops,120740.0,154622.3
+316,PROD00316,Furniture Tables 316,Furniture,Tables,13106.0,18754.26
+317,PROD00317,Home & Kitchen Decor 317,Home & Kitchen,Decor,6276.0,7142.3
+318,PROD00318,Home & Kitchen Decor 318,Home & Kitchen,Decor,5748.0,6908.84
+319,PROD00319,Furniture Storage 319,Furniture,Storage,17540.0,19765.01
+320,PROD00320,Electronics Mobiles 320,Electronics,Mobiles,121213.0,138016.25
+321,PROD00321,Clothing T-Shirts 321,Clothing,T-Shirts,2478.0,2785.25
+322,PROD00322,Clothing Jackets 322,Clothing,Jackets,700.0,885.03
+323,PROD00323,Home & Kitchen Appliances 323,Home & Kitchen,Appliances,721.0,1072.39
+324,PROD00324,Clothing Jeans 324,Clothing,Jeans,624.0,830.65
+325,PROD00325,Furniture Chairs 325,Furniture,Chairs,23519.0,30407.14
+326,PROD00326,Electronics Audio 326,Electronics,Audio,104353.0,119583.75
+327,PROD00327,Clothing Jackets 327,Clothing,Jackets,1126.0,1602.17
+328,PROD00328,Electronics Audio 328,Electronics,Audio,15589.0,18272.9
+329,PROD00329,Clothing Jeans 329,Clothing,Jeans,1637.0,1804.7
+330,PROD00330,Furniture Storage 330,Furniture,Storage,23539.0,29666.53
+331,PROD00331,Furniture Storage 331,Furniture,Storage,22747.0,33864.01
+332,PROD00332,Electronics Laptops 332,Electronics,Laptops,106617.0,135183.21
+333,PROD00333,Clothing T-Shirts 333,Clothing,T-Shirts,1715.0,2100.28
+334,PROD00334,Clothing Jackets 334,Clothing,Jackets,2642.0,2995.98
+335,PROD00335,Electronics Laptops 335,Electronics,Laptops,49264.0,69057.01
+336,PROD00336,Electronics Mobiles 336,Electronics,Mobiles,79330.0,101323.86
+337,PROD00337,Home & Kitchen Decor 337,Home & Kitchen,Decor,5273.0,6732.66
+338,PROD00338,Clothing T-Shirts 338,Clothing,T-Shirts,2298.0,2632.42
+339,PROD00339,Home & Kitchen Cookware 339,Home & Kitchen,Cookware,2620.0,3592.77
+340,PROD00340,Home & Kitchen Appliances 340,Home & Kitchen,Appliances,5765.0,7052.72
+341,PROD00341,Furniture Tables 341,Furniture,Tables,21638.0,24275.95
+342,PROD00342,Furniture Tables 342,Furniture,Tables,8921.0,12551.31
+343,PROD00343,Clothing Jeans 343,Clothing,Jeans,1543.0,1771.35
+344,PROD00344,Home & Kitchen Appliances 344,Home & Kitchen,Appliances,3827.0,4478.65
+345,PROD00345,Home & Kitchen Appliances 345,Home & Kitchen,Appliances,6064.0,7228.56
+346,PROD00346,Clothing T-Shirts 346,Clothing,T-Shirts,1826.0,2638.03
+347,PROD00347,Electronics Accessories 347,Electronics,Accessories,12912.0,16577.74
+348,PROD00348,Electronics Audio 348,Electronics,Audio,120534.0,160233.06
+349,PROD00349,Home & Kitchen Decor 349,Home & Kitchen,Decor,1243.0,1568.68
+350,PROD00350,Clothing T-Shirts 350,Clothing,T-Shirts,2731.0,3506.71
+351,PROD00351,Clothing T-Shirts 351,Clothing,T-Shirts,1988.0,2858.33
+352,PROD00352,Furniture Tables 352,Furniture,Tables,21296.0,26836.79
+353,PROD00353,Electronics Accessories 353,Electronics,Accessories,89336.0,124920.49
+354,PROD00354,Furniture Tables 354,Furniture,Tables,7509.0,8489.31
+355,PROD00355,Electronics Laptops 355,Electronics,Laptops,99586.0,123530.45
+356,PROD00356,Furniture Chairs 356,Furniture,Chairs,5368.0,6219.25
+357,PROD00357,Furniture Chairs 357,Furniture,Chairs,21739.0,25242.19
+358,PROD00358,Electronics Laptops 358,Electronics,Laptops,137529.0,176804.7
+359,PROD00359,Home & Kitchen Appliances 359,Home & Kitchen,Appliances,7870.0,11433.69
+360,PROD00360,Clothing Jackets 360,Clothing,Jackets,1494.0,1733.61
+361,PROD00361,Electronics Accessories 361,Electronics,Accessories,123922.0,167611.2
+362,PROD00362,Clothing Jackets 362,Clothing,Jackets,430.0,533.53
+363,PROD00363,Electronics Audio 363,Electronics,Audio,129043.0,165273.83
+364,PROD00364,Electronics Audio 364,Electronics,Audio,83255.0,94135.8
+365,PROD00365,Electronics Accessories 365,Electronics,Accessories,129297.0,172240.64
+366,PROD00366,Electronics Accessories 366,Electronics,Accessories,57345.0,70454.68
+367,PROD00367,Home & Kitchen Appliances 367,Home & Kitchen,Appliances,1535.0,2276.54
+368,PROD00368,Home & Kitchen Cookware 368,Home & Kitchen,Cookware,6943.0,10134.36
+369,PROD00369,Clothing Jackets 369,Clothing,Jackets,545.0,709.49
+370,PROD00370,Furniture Chairs 370,Furniture,Chairs,10118.0,13993.69
+371,PROD00371,Home & Kitchen Appliances 371,Home & Kitchen,Appliances,4582.0,6157.85
+372,PROD00372,Clothing Jeans 372,Clothing,Jeans,1358.0,1704.24
+373,PROD00373,Clothing Jackets 373,Clothing,Jackets,2648.0,2968.27
+374,PROD00374,Clothing T-Shirts 374,Clothing,T-Shirts,1550.0,1763.59
+375,PROD00375,Home & Kitchen Decor 375,Home & Kitchen,Decor,2364.0,3284.76
+376,PROD00376,Furniture Tables 376,Furniture,Tables,4670.0,6225.56
+377,PROD00377,Furniture Tables 377,Furniture,Tables,12165.0,18090.31
+378,PROD00378,Home & Kitchen Cookware 378,Home & Kitchen,Cookware,5174.0,7158.4
+379,PROD00379,Electronics Audio 379,Electronics,Audio,106744.0,144894.02
+380,PROD00380,Clothing T-Shirts 380,Clothing,T-Shirts,2944.0,4066.05
+381,PROD00381,Electronics Accessories 381,Electronics,Accessories,141297.0,175876.79
+382,PROD00382,Clothing Jeans 382,Clothing,Jeans,938.0,1388.68
+383,PROD00383,Clothing Jeans 383,Clothing,Jeans,986.0,1173.95
+384,PROD00384,Furniture Chairs 384,Furniture,Chairs,4528.0,5516.54
+385,PROD00385,Electronics Mobiles 385,Electronics,Mobiles,96280.0,139659.64
+386,PROD00386,Furniture Storage 386,Furniture,Storage,14344.0,16663.44
+387,PROD00387,Furniture Storage 387,Furniture,Storage,22471.0,31990.11
+388,PROD00388,Furniture Storage 388,Furniture,Storage,16341.0,18260.69
+389,PROD00389,Clothing Jackets 389,Clothing,Jackets,1172.0,1743.74
+390,PROD00390,Clothing Jackets 390,Clothing,Jackets,2038.0,2432.56
+391,PROD00391,Furniture Tables 391,Furniture,Tables,17368.0,25384.89
+392,PROD00392,Furniture Tables 392,Furniture,Tables,24226.0,35826.67
+393,PROD00393,Home & Kitchen Decor 393,Home & Kitchen,Decor,6603.0,8007.52
+394,PROD00394,Home & Kitchen Appliances 394,Home & Kitchen,Appliances,4620.0,5855.69
+395,PROD00395,Furniture Chairs 395,Furniture,Chairs,21813.0,25201.85
+396,PROD00396,Clothing T-Shirts 396,Clothing,T-Shirts,2826.0,3651.86
+397,PROD00397,Clothing Jackets 397,Clothing,Jackets,620.0,858.43
+398,PROD00398,Electronics Audio 398,Electronics,Audio,29987.0,42139.13
+399,PROD00399,Clothing Jeans 399,Clothing,Jeans,2302.0,2667.88
+400,PROD00400,Home & Kitchen Cookware 400,Home & Kitchen,Cookware,7758.0,9222.83
+401,PROD00401,Home & Kitchen Decor 401,Home & Kitchen,Decor,7922.0,8798.71
+402,PROD00402,Electronics Accessories 402,Electronics,Accessories,139598.0,174439.51
+403,PROD00403,Home & Kitchen Cookware 403,Home & Kitchen,Cookware,3371.0,4010.87
+404,PROD00404,Clothing T-Shirts 404,Clothing,T-Shirts,2862.0,3532.04
+405,PROD00405,Furniture Chairs 405,Furniture,Chairs,3255.0,3954.02
+406,PROD00406,Home & Kitchen Appliances 406,Home & Kitchen,Appliances,7108.0,8213.42
+407,PROD00407,Home & Kitchen Decor 407,Home & Kitchen,Decor,5340.0,5885.22
+408,PROD00408,Electronics Mobiles 408,Electronics,Mobiles,75088.0,89074.03
+409,PROD00409,Furniture Storage 409,Furniture,Storage,21951.0,28780.14
+410,PROD00410,Electronics Audio 410,Electronics,Audio,70295.0,85792.27
+411,PROD00411,Electronics Laptops 411,Electronics,Laptops,118054.0,160031.72
+412,PROD00412,Home & Kitchen Cookware 412,Home & Kitchen,Cookware,1208.0,1733.09
+413,PROD00413,Home & Kitchen Appliances 413,Home & Kitchen,Appliances,4691.0,5190.94
+414,PROD00414,Furniture Storage 414,Furniture,Storage,6704.0,8155.47
+415,PROD00415,Electronics Audio 415,Electronics,Audio,71062.0,94389.2
+416,PROD00416,Furniture Storage 416,Furniture,Storage,23896.0,27103.93
+417,PROD00417,Clothing T-Shirts 417,Clothing,T-Shirts,2354.0,3101.71
+418,PROD00418,Electronics Accessories 418,Electronics,Accessories,131243.0,146652.74
+419,PROD00419,Home & Kitchen Decor 419,Home & Kitchen,Decor,2377.0,3325.25
+420,PROD00420,Clothing T-Shirts 420,Clothing,T-Shirts,1612.0,1928.68
+421,PROD00421,Electronics Audio 421,Electronics,Audio,42972.0,48031.28
+422,PROD00422,Clothing Jackets 422,Clothing,Jackets,917.0,1313.28
+423,PROD00423,Home & Kitchen Appliances 423,Home & Kitchen,Appliances,4220.0,5708.37
+424,PROD00424,Furniture Chairs 424,Furniture,Chairs,16997.0,18948.15
+425,PROD00425,Furniture Chairs 425,Furniture,Chairs,8536.0,12414.04
+426,PROD00426,Clothing Jeans 426,Clothing,Jeans,2311.0,2910.22
+427,PROD00427,Home & Kitchen Decor 427,Home & Kitchen,Decor,599.0,839.39
+428,PROD00428,Furniture Tables 428,Furniture,Tables,13697.0,19790.18
+429,PROD00429,Electronics Audio 429,Electronics,Audio,79622.0,91548.58
+430,PROD00430,Clothing Jeans 430,Clothing,Jeans,1838.0,2568.28
+431,PROD00431,Home & Kitchen Decor 431,Home & Kitchen,Decor,1830.0,2376.22
+432,PROD00432,Home & Kitchen Decor 432,Home & Kitchen,Decor,7871.0,11168.29
+433,PROD00433,Clothing T-Shirts 433,Clothing,T-Shirts,1938.0,2192.98
+434,PROD00434,Furniture Storage 434,Furniture,Storage,11626.0,14282.36
+435,PROD00435,Electronics Audio 435,Electronics,Audio,85500.0,104532.16
+436,PROD00436,Home & Kitchen Cookware 436,Home & Kitchen,Cookware,5950.0,7601.5
+437,PROD00437,Home & Kitchen Cookware 437,Home & Kitchen,Cookware,6254.0,9055.88
+438,PROD00438,Clothing Jackets 438,Clothing,Jackets,1981.0,2396.66
+439,PROD00439,Electronics Mobiles 439,Electronics,Mobiles,114485.0,142570.97
+440,PROD00440,Furniture Chairs 440,Furniture,Chairs,6678.0,9612.77
+441,PROD00441,Home & Kitchen Cookware 441,Home & Kitchen,Cookware,1334.0,1503.28
+442,PROD00442,Clothing Jeans 442,Clothing,Jeans,1768.0,2616.26
+443,PROD00443,Electronics Laptops 443,Electronics,Laptops,125944.0,186337.85
+444,PROD00444,Clothing Jeans 444,Clothing,Jeans,514.0,683.4
+445,PROD00445,Clothing Jeans 445,Clothing,Jeans,1487.0,2022.06
+446,PROD00446,Furniture Chairs 446,Furniture,Chairs,2849.0,3972.28
+447,PROD00447,Home & Kitchen Appliances 447,Home & Kitchen,Appliances,3470.0,5085.0
+448,PROD00448,Electronics Audio 448,Electronics,Audio,76233.0,105324.67
+449,PROD00449,Furniture Storage 449,Furniture,Storage,11357.0,15645.32
+450,PROD00450,Home & Kitchen Cookware 450,Home & Kitchen,Cookware,1304.0,1505.2
+451,PROD00451,Electronics Accessories 451,Electronics,Accessories,53260.0,77731.46
+452,PROD00452,Home & Kitchen Cookware 452,Home & Kitchen,Cookware,6939.0,9525.66
+453,PROD00453,Clothing Jackets 453,Clothing,Jackets,1623.0,2245.93
+454,PROD00454,Clothing Jeans 454,Clothing,Jeans,845.0,1170.09
+455,PROD00455,Furniture Tables 455,Furniture,Tables,18670.0,22211.64
+456,PROD00456,Furniture Chairs 456,Furniture,Chairs,9757.0,13817.37
+457,PROD00457,Electronics Audio 457,Electronics,Audio,104707.0,134753.97
+458,PROD00458,Furniture Storage 458,Furniture,Storage,4825.0,5434.39
+459,PROD00459,Home & Kitchen Appliances 459,Home & Kitchen,Appliances,6188.0,7991.59
+460,PROD00460,Home & Kitchen Decor 460,Home & Kitchen,Decor,7044.0,9368.24
+461,PROD00461,Furniture Tables 461,Furniture,Tables,23048.0,26036.54
+462,PROD00462,Home & Kitchen Appliances 462,Home & Kitchen,Appliances,4538.0,5617.16
+463,PROD00463,Furniture Chairs 463,Furniture,Chairs,16176.0,21047.33
+464,PROD00464,Electronics Mobiles 464,Electronics,Mobiles,143817.0,167001.19
+465,PROD00465,Furniture Chairs 465,Furniture,Chairs,12572.0,18529.81
+466,PROD00466,Furniture Tables 466,Furniture,Tables,19003.0,27705.81
+467,PROD00467,Electronics Audio 467,Electronics,Audio,59459.0,80508.84
+468,PROD00468,Clothing T-Shirts 468,Clothing,T-Shirts,2760.0,3370.32
+469,PROD00469,Electronics Laptops 469,Electronics,Laptops,48421.0,56578.98
+470,PROD00470,Clothing Jackets 470,Clothing,Jackets,368.0,526.27
+471,PROD00471,Electronics Mobiles 471,Electronics,Mobiles,19917.0,29465.58
+472,PROD00472,Clothing Jackets 472,Clothing,Jackets,1063.0,1495.41
+473,PROD00473,Home & Kitchen Appliances 473,Home & Kitchen,Appliances,5534.0,6154.44
+474,PROD00474,Clothing Jackets 474,Clothing,Jackets,1437.0,1858.3
+475,PROD00475,Home & Kitchen Decor 475,Home & Kitchen,Decor,4015.0,4533.69
+476,PROD00476,Electronics Laptops 476,Electronics,Laptops,123239.0,156051.22
+477,PROD00477,Home & Kitchen Cookware 477,Home & Kitchen,Cookware,3086.0,4143.46
+478,PROD00478,Clothing Jackets 478,Clothing,Jackets,1507.0,2100.28
+479,PROD00479,Clothing Jeans 479,Clothing,Jeans,735.0,1032.14
+480,PROD00480,Electronics Audio 480,Electronics,Audio,71370.0,91823.86
+481,PROD00481,Clothing Jeans 481,Clothing,Jeans,1215.0,1404.97
+482,PROD00482,Electronics Audio 482,Electronics,Audio,108702.0,157146.74
+483,PROD00483,Home & Kitchen Cookware 483,Home & Kitchen,Cookware,7388.0,10793.31
+484,PROD00484,Clothing Jackets 484,Clothing,Jackets,1480.0,1740.38
+485,PROD00485,Furniture Tables 485,Furniture,Tables,18866.0,24275.37
+486,PROD00486,Clothing Jeans 486,Clothing,Jeans,294.0,333.99
+487,PROD00487,Home & Kitchen Appliances 487,Home & Kitchen,Appliances,4045.0,6013.6
+488,PROD00488,Furniture Storage 488,Furniture,Storage,13563.0,15183.28
+489,PROD00489,Clothing Jeans 489,Clothing,Jeans,2647.0,3845.92
+490,PROD00490,Home & Kitchen Decor 490,Home & Kitchen,Decor,4696.0,5180.96
+491,PROD00491,Electronics Accessories 491,Electronics,Accessories,43110.0,62638.07
+492,PROD00492,Clothing Jeans 492,Clothing,Jeans,1698.0,1898.53
+493,PROD00493,Electronics Laptops 493,Electronics,Laptops,103033.0,136136.39
+494,PROD00494,Electronics Accessories 494,Electronics,Accessories,140187.0,179459.23
+495,PROD00495,Clothing Jackets 495,Clothing,Jackets,2986.0,4014.43
+496,PROD00496,Furniture Chairs 496,Furniture,Chairs,14907.0,18623.01
+497,PROD00497,Clothing Jackets 497,Clothing,Jackets,1697.0,2379.17
+498,PROD00498,Furniture Storage 498,Furniture,Storage,18682.0,23549.69
+499,PROD00499,Electronics Mobiles 499,Electronics,Mobiles,18201.0,21018.78
+500,PROD00500,Clothing Jeans 500,Clothing,Jeans,2327.0,2985.06
+501,PROD00501,Furniture Tables 501,Furniture,Tables,22089.0,27112.3
+502,PROD00502,Home & Kitchen Appliances 502,Home & Kitchen,Appliances,6356.0,9133.83
+503,PROD00503,Clothing Jackets 503,Clothing,Jackets,2287.0,3002.68
+504,PROD00504,Clothing Jeans 504,Clothing,Jeans,268.0,334.29
+505,PROD00505,Electronics Accessories 505,Electronics,Accessories,88655.0,125775.02
+506,PROD00506,Electronics Accessories 506,Electronics,Accessories,77607.0,115388.28
+507,PROD00507,Furniture Storage 507,Furniture,Storage,3682.0,4909.61
+508,PROD00508,Furniture Storage 508,Furniture,Storage,22611.0,31394.77
+509,PROD00509,Home & Kitchen Cookware 509,Home & Kitchen,Cookware,7031.0,9648.58
+510,PROD00510,Electronics Mobiles 510,Electronics,Mobiles,58012.0,64252.64
+511,PROD00511,Clothing Jeans 511,Clothing,Jeans,820.0,1037.45
+512,PROD00512,Furniture Tables 512,Furniture,Tables,18443.0,26004.43
+513,PROD00513,Home & Kitchen Appliances 513,Home & Kitchen,Appliances,6258.0,7039.7
+514,PROD00514,Furniture Storage 514,Furniture,Storage,8794.0,11646.38
+515,PROD00515,Home & Kitchen Appliances 515,Home & Kitchen,Appliances,3386.0,4149.55
+516,PROD00516,Furniture Tables 516,Furniture,Tables,19469.0,24081.81
+517,PROD00517,Clothing Jackets 517,Clothing,Jackets,2988.0,4055.68
+518,PROD00518,Clothing Jackets 518,Clothing,Jackets,2183.0,2569.19
+519,PROD00519,Furniture Tables 519,Furniture,Tables,20287.0,24737.96
+520,PROD00520,Clothing Jeans 520,Clothing,Jeans,1049.0,1443.52
+521,PROD00521,Home & Kitchen Decor 521,Home & Kitchen,Decor,4230.0,5243.17
+522,PROD00522,Clothing Jeans 522,Clothing,Jeans,699.0,929.24
+523,PROD00523,Home & Kitchen Decor 523,Home & Kitchen,Decor,7004.0,8671.33
+524,PROD00524,Furniture Tables 524,Furniture,Tables,3378.0,4104.45
+525,PROD00525,Electronics Audio 525,Electronics,Audio,123966.0,168889.89
+526,PROD00526,Home & Kitchen Cookware 526,Home & Kitchen,Cookware,1955.0,2797.96
+527,PROD00527,Clothing Jackets 527,Clothing,Jackets,1312.0,1515.24
+528,PROD00528,Furniture Chairs 528,Furniture,Chairs,3663.0,5010.74
+529,PROD00529,Furniture Storage 529,Furniture,Storage,9629.0,10794.07
+530,PROD00530,Home & Kitchen Decor 530,Home & Kitchen,Decor,6176.0,7960.63
+531,PROD00531,Furniture Chairs 531,Furniture,Chairs,20033.0,29872.49
+532,PROD00532,Furniture Tables 532,Furniture,Tables,23393.0,34481.58
+533,PROD00533,Home & Kitchen Decor 533,Home & Kitchen,Decor,5629.0,6641.0
+534,PROD00534,Clothing Jeans 534,Clothing,Jeans,1369.0,1859.59
+535,PROD00535,Electronics Laptops 535,Electronics,Laptops,148286.0,206929.35
+536,PROD00536,Electronics Laptops 536,Electronics,Laptops,117546.0,170782.35
+537,PROD00537,Furniture Chairs 537,Furniture,Chairs,15008.0,21239.09
+538,PROD00538,Furniture Storage 538,Furniture,Storage,11485.0,16661.26
+539,PROD00539,Electronics Audio 539,Electronics,Audio,36128.0,53158.09
+540,PROD00540,Clothing Jeans 540,Clothing,Jeans,2061.0,3082.51
+541,PROD00541,Home & Kitchen Cookware 541,Home & Kitchen,Cookware,7271.0,9464.55
+542,PROD00542,Clothing T-Shirts 542,Clothing,T-Shirts,661.0,814.53
+543,PROD00543,Home & Kitchen Appliances 543,Home & Kitchen,Appliances,2407.0,3339.57
+544,PROD00544,Electronics Audio 544,Electronics,Audio,85338.0,113253.13
+545,PROD00545,Furniture Chairs 545,Furniture,Chairs,22019.0,31761.5
+546,PROD00546,Home & Kitchen Decor 546,Home & Kitchen,Decor,4521.0,5566.12
+547,PROD00547,Home & Kitchen Appliances 547,Home & Kitchen,Appliances,1081.0,1269.0
+548,PROD00548,Furniture Tables 548,Furniture,Tables,12603.0,18580.98
+549,PROD00549,Electronics Audio 549,Electronics,Audio,108551.0,129632.53
+550,PROD00550,Clothing Jeans 550,Clothing,Jeans,1436.0,1914.17
+551,PROD00551,Electronics Audio 551,Electronics,Audio,102254.0,140814.74
+552,PROD00552,Electronics Mobiles 552,Electronics,Mobiles,130000.0,158953.93
+553,PROD00553,Home & Kitchen Appliances 553,Home & Kitchen,Appliances,4416.0,6488.17
+554,PROD00554,Clothing Jackets 554,Clothing,Jackets,680.0,921.73
+555,PROD00555,Clothing Jeans 555,Clothing,Jeans,2717.0,3228.72
+556,PROD00556,Furniture Tables 556,Furniture,Tables,7019.0,8998.3
+557,PROD00557,Clothing Jeans 557,Clothing,Jeans,2449.0,3588.08
+558,PROD00558,Furniture Chairs 558,Furniture,Chairs,24293.0,34056.26
+559,PROD00559,Electronics Accessories 559,Electronics,Accessories,146457.0,202331.29
+560,PROD00560,Electronics Mobiles 560,Electronics,Mobiles,24189.0,34626.79
+561,PROD00561,Furniture Storage 561,Furniture,Storage,19585.0,22717.44
+562,PROD00562,Clothing Jackets 562,Clothing,Jackets,2009.0,2303.31
+563,PROD00563,Furniture Storage 563,Furniture,Storage,21108.0,27346.07
+564,PROD00564,Home & Kitchen Cookware 564,Home & Kitchen,Cookware,4014.0,4627.25
+565,PROD00565,Home & Kitchen Decor 565,Home & Kitchen,Decor,4919.0,5524.5
+566,PROD00566,Home & Kitchen Appliances 566,Home & Kitchen,Appliances,6910.0,8452.78
+567,PROD00567,Electronics Accessories 567,Electronics,Accessories,74704.0,106571.33
+568,PROD00568,Furniture Storage 568,Furniture,Storage,4393.0,4911.88
+569,PROD00569,Clothing Jackets 569,Clothing,Jackets,461.0,606.89
+570,PROD00570,Electronics Mobiles 570,Electronics,Mobiles,131750.0,146597.43
+571,PROD00571,Home & Kitchen Cookware 571,Home & Kitchen,Cookware,6599.0,7616.38
+572,PROD00572,Home & Kitchen Decor 572,Home & Kitchen,Decor,7601.0,9523.99
+573,PROD00573,Home & Kitchen Decor 573,Home & Kitchen,Decor,957.0,1314.05
+574,PROD00574,Furniture Storage 574,Furniture,Storage,13395.0,15370.14
+575,PROD00575,Home & Kitchen Appliances 575,Home & Kitchen,Appliances,1343.0,1868.31
+576,PROD00576,Furniture Chairs 576,Furniture,Chairs,2744.0,4092.39
+577,PROD00577,Home & Kitchen Appliances 577,Home & Kitchen,Appliances,6190.0,8157.05
+578,PROD00578,Home & Kitchen Cookware 578,Home & Kitchen,Cookware,2327.0,2988.45
+579,PROD00579,Furniture Tables 579,Furniture,Tables,8176.0,12059.31
+580,PROD00580,Electronics Mobiles 580,Electronics,Mobiles,117901.0,158691.12
+581,PROD00581,Electronics Laptops 581,Electronics,Laptops,62023.0,69894.73
+582,PROD00582,Electronics Accessories 582,Electronics,Accessories,20760.0,24868.27
+583,PROD00583,Electronics Accessories 583,Electronics,Accessories,123071.0,146914.25
+584,PROD00584,Furniture Chairs 584,Furniture,Chairs,6591.0,8578.57
+585,PROD00585,Clothing T-Shirts 585,Clothing,T-Shirts,2559.0,3141.33
+586,PROD00586,Clothing T-Shirts 586,Clothing,T-Shirts,1436.0,2082.92
+587,PROD00587,Furniture Tables 587,Furniture,Tables,11846.0,14334.39
+588,PROD00588,Furniture Storage 588,Furniture,Storage,24241.0,30807.41
+589,PROD00589,Home & Kitchen Cookware 589,Home & Kitchen,Cookware,3121.0,4608.58
+590,PROD00590,Home & Kitchen Appliances 590,Home & Kitchen,Appliances,2911.0,4012.88
+591,PROD00591,Home & Kitchen Cookware 591,Home & Kitchen,Cookware,2756.0,3446.61
+592,PROD00592,Home & Kitchen Cookware 592,Home & Kitchen,Cookware,7257.0,8636.83
+593,PROD00593,Furniture Tables 593,Furniture,Tables,3888.0,5151.42
+594,PROD00594,Home & Kitchen Appliances 594,Home & Kitchen,Appliances,4641.0,5354.03
+595,PROD00595,Furniture Tables 595,Furniture,Tables,8662.0,10672.5
+596,PROD00596,Electronics Accessories 596,Electronics,Accessories,105275.0,119696.16
+597,PROD00597,Furniture Chairs 597,Furniture,Chairs,10796.0,13504.36
+598,PROD00598,Electronics Mobiles 598,Electronics,Mobiles,57325.0,81508.14
+599,PROD00599,Furniture Tables 599,Furniture,Tables,8844.0,12804.25
+600,PROD00600,Clothing Jeans 600,Clothing,Jeans,262.0,310.4
+601,PROD00601,Furniture Storage 601,Furniture,Storage,5844.0,8174.3
+602,PROD00602,Home & Kitchen Cookware 602,Home & Kitchen,Cookware,5998.0,8047.88
+603,PROD00603,Furniture Tables 603,Furniture,Tables,9842.0,12999.63
+604,PROD00604,Clothing Jeans 604,Clothing,Jeans,2109.0,2770.09
+605,PROD00605,Clothing Jeans 605,Clothing,Jeans,1271.0,1580.94
+606,PROD00606,Home & Kitchen Decor 606,Home & Kitchen,Decor,1107.0,1573.19
+607,PROD00607,Home & Kitchen Decor 607,Home & Kitchen,Decor,7790.0,9201.95
+608,PROD00608,Clothing Jeans 608,Clothing,Jeans,387.0,512.78
+609,PROD00609,Furniture Storage 609,Furniture,Storage,6781.0,7503.09
+610,PROD00610,Home & Kitchen Decor 610,Home & Kitchen,Decor,1548.0,1824.28
+611,PROD00611,Furniture Tables 611,Furniture,Tables,20670.0,29627.24
+612,PROD00612,Home & Kitchen Appliances 612,Home & Kitchen,Appliances,5662.0,8364.96
+613,PROD00613,Clothing Jeans 613,Clothing,Jeans,2201.0,3272.01
+614,PROD00614,Home & Kitchen Decor 614,Home & Kitchen,Decor,1678.0,2337.64
+615,PROD00615,Clothing T-Shirts 615,Clothing,T-Shirts,773.0,1073.02
+616,PROD00616,Home & Kitchen Cookware 616,Home & Kitchen,Cookware,7811.0,11370.83
+617,PROD00617,Electronics Mobiles 617,Electronics,Mobiles,27485.0,40624.9
+618,PROD00618,Electronics Mobiles 618,Electronics,Mobiles,116106.0,134102.04
+619,PROD00619,Furniture Chairs 619,Furniture,Chairs,6948.0,7668.21
+620,PROD00620,Home & Kitchen Decor 620,Home & Kitchen,Decor,795.0,1070.97
+621,PROD00621,Home & Kitchen Appliances 621,Home & Kitchen,Appliances,4296.0,4752.63
+622,PROD00622,Home & Kitchen Cookware 622,Home & Kitchen,Cookware,437.0,573.24
+623,PROD00623,Clothing Jackets 623,Clothing,Jackets,1374.0,1520.82
+624,PROD00624,Home & Kitchen Cookware 624,Home & Kitchen,Cookware,1176.0,1725.45
+625,PROD00625,Furniture Chairs 625,Furniture,Chairs,8289.0,11172.85
+626,PROD00626,Clothing Jeans 626,Clothing,Jeans,1294.0,1834.86
+627,PROD00627,Electronics Audio 627,Electronics,Audio,114437.0,146891.23
+628,PROD00628,Furniture Storage 628,Furniture,Storage,9400.0,11467.9
+629,PROD00629,Electronics Mobiles 629,Electronics,Mobiles,32510.0,41031.24
+630,PROD00630,Home & Kitchen Appliances 630,Home & Kitchen,Appliances,4199.0,4713.15
+631,PROD00631,Electronics Laptops 631,Electronics,Laptops,29675.0,38575.82
+632,PROD00632,Home & Kitchen Appliances 632,Home & Kitchen,Appliances,6725.0,8288.62
+633,PROD00633,Electronics Mobiles 633,Electronics,Mobiles,68231.0,80824.18
+634,PROD00634,Home & Kitchen Decor 634,Home & Kitchen,Decor,681.0,1000.84
+635,PROD00635,Clothing Jackets 635,Clothing,Jackets,2508.0,3419.02
+636,PROD00636,Furniture Tables 636,Furniture,Tables,2513.0,3730.77
+637,PROD00637,Furniture Storage 637,Furniture,Storage,15051.0,22148.3
+638,PROD00638,Clothing T-Shirts 638,Clothing,T-Shirts,2509.0,3001.24
+639,PROD00639,Home & Kitchen Appliances 639,Home & Kitchen,Appliances,7644.0,10061.22
+640,PROD00640,Home & Kitchen Appliances 640,Home & Kitchen,Appliances,1446.0,2047.82
+641,PROD00641,Electronics Audio 641,Electronics,Audio,22076.0,25146.2
+642,PROD00642,Furniture Chairs 642,Furniture,Chairs,13160.0,17661.61
+643,PROD00643,Home & Kitchen Decor 643,Home & Kitchen,Decor,542.0,733.68
+644,PROD00644,Home & Kitchen Decor 644,Home & Kitchen,Decor,2168.0,2693.36
+645,PROD00645,Home & Kitchen Decor 645,Home & Kitchen,Decor,1821.0,2498.19
+646,PROD00646,Home & Kitchen Cookware 646,Home & Kitchen,Cookware,6625.0,8926.83
+647,PROD00647,Furniture Storage 647,Furniture,Storage,4408.0,4993.45
+648,PROD00648,Furniture Tables 648,Furniture,Tables,22771.0,26453.32
+649,PROD00649,Home & Kitchen Decor 649,Home & Kitchen,Decor,3254.0,3718.09
+650,PROD00650,Electronics Audio 650,Electronics,Audio,124584.0,154978.38
+651,PROD00651,Clothing T-Shirts 651,Clothing,T-Shirts,742.0,842.11
+652,PROD00652,Home & Kitchen Decor 652,Home & Kitchen,Decor,4862.0,6427.06
+653,PROD00653,Home & Kitchen Cookware 653,Home & Kitchen,Cookware,515.0,584.96
+654,PROD00654,Electronics Audio 654,Electronics,Audio,108987.0,120423.69
+655,PROD00655,Home & Kitchen Decor 655,Home & Kitchen,Decor,6682.0,7576.58
+656,PROD00656,Furniture Storage 656,Furniture,Storage,19075.0,22276.42
+657,PROD00657,Home & Kitchen Cookware 657,Home & Kitchen,Cookware,1437.0,1735.27
+658,PROD00658,Clothing Jeans 658,Clothing,Jeans,797.0,896.87
+659,PROD00659,Home & Kitchen Decor 659,Home & Kitchen,Decor,3749.0,4573.41
+660,PROD00660,Electronics Audio 660,Electronics,Audio,73981.0,109320.9
+661,PROD00661,Home & Kitchen Appliances 661,Home & Kitchen,Appliances,5351.0,6304.65
+662,PROD00662,Electronics Laptops 662,Electronics,Laptops,87864.0,96888.24
+663,PROD00663,Home & Kitchen Decor 663,Home & Kitchen,Decor,7194.0,9698.07
+664,PROD00664,Clothing Jeans 664,Clothing,Jeans,1571.0,1998.7
+665,PROD00665,Furniture Tables 665,Furniture,Tables,12507.0,16775.45
+666,PROD00666,Furniture Tables 666,Furniture,Tables,12295.0,14398.12
+667,PROD00667,Home & Kitchen Decor 667,Home & Kitchen,Decor,2687.0,3745.54
+668,PROD00668,Home & Kitchen Appliances 668,Home & Kitchen,Appliances,6705.0,8025.68
+669,PROD00669,Home & Kitchen Decor 669,Home & Kitchen,Decor,6988.0,9883.45
+670,PROD00670,Clothing T-Shirts 670,Clothing,T-Shirts,2509.0,2960.42
+671,PROD00671,Furniture Storage 671,Furniture,Storage,20025.0,22243.1
+672,PROD00672,Home & Kitchen Appliances 672,Home & Kitchen,Appliances,2017.0,2572.45
+673,PROD00673,Clothing Jackets 673,Clothing,Jackets,483.0,689.52
+674,PROD00674,Home & Kitchen Appliances 674,Home & Kitchen,Appliances,4390.0,5073.4
+675,PROD00675,Clothing T-Shirts 675,Clothing,T-Shirts,1234.0,1682.52
+676,PROD00676,Home & Kitchen Decor 676,Home & Kitchen,Decor,905.0,1158.06
+677,PROD00677,Home & Kitchen Appliances 677,Home & Kitchen,Appliances,3583.0,4707.16
+678,PROD00678,Home & Kitchen Appliances 678,Home & Kitchen,Appliances,601.0,851.19
+679,PROD00679,Clothing Jackets 679,Clothing,Jackets,2399.0,3208.73
+680,PROD00680,Electronics Mobiles 680,Electronics,Mobiles,73072.0,99600.11
+681,PROD00681,Clothing T-Shirts 681,Clothing,T-Shirts,2850.0,3833.45
+682,PROD00682,Home & Kitchen Decor 682,Home & Kitchen,Decor,6822.0,8678.83
+683,PROD00683,Electronics Mobiles 683,Electronics,Mobiles,75826.0,90141.98
+684,PROD00684,Furniture Tables 684,Furniture,Tables,14259.0,17915.77
+685,PROD00685,Furniture Tables 685,Furniture,Tables,2804.0,3625.88
+686,PROD00686,Clothing Jeans 686,Clothing,Jeans,551.0,631.68
+687,PROD00687,Furniture Tables 687,Furniture,Tables,12220.0,15118.91
+688,PROD00688,Furniture Storage 688,Furniture,Storage,17824.0,22089.64
+689,PROD00689,Electronics Accessories 689,Electronics,Accessories,126606.0,155416.94
+690,PROD00690,Clothing T-Shirts 690,Clothing,T-Shirts,671.0,744.16
+691,PROD00691,Clothing Jackets 691,Clothing,Jackets,647.0,886.94
+692,PROD00692,Furniture Storage 692,Furniture,Storage,9992.0,13053.52
+693,PROD00693,Furniture Tables 693,Furniture,Tables,20345.0,25849.29
+694,PROD00694,Home & Kitchen Cookware 694,Home & Kitchen,Cookware,6835.0,8625.9
+695,PROD00695,Furniture Chairs 695,Furniture,Chairs,22987.0,31329.51
+696,PROD00696,Home & Kitchen Cookware 696,Home & Kitchen,Cookware,6340.0,8531.38
+697,PROD00697,Furniture Tables 697,Furniture,Tables,21405.0,27223.33
+698,PROD00698,Electronics Laptops 698,Electronics,Laptops,61945.0,75036.33
+699,PROD00699,Electronics Mobiles 699,Electronics,Mobiles,148742.0,174739.71
+700,PROD00700,Clothing T-Shirts 700,Clothing,T-Shirts,2074.0,2375.94
+701,PROD00701,Home & Kitchen Appliances 701,Home & Kitchen,Appliances,5535.0,6782.38
+702,PROD00702,Home & Kitchen Appliances 702,Home & Kitchen,Appliances,3515.0,4691.83
+703,PROD00703,Clothing Jeans 703,Clothing,Jeans,2075.0,2794.91
+704,PROD00704,Clothing Jackets 704,Clothing,Jackets,2617.0,2967.42
+705,PROD00705,Furniture Tables 705,Furniture,Tables,5862.0,7007.61
+706,PROD00706,Electronics Laptops 706,Electronics,Laptops,105859.0,145807.5
+707,PROD00707,Home & Kitchen Decor 707,Home & Kitchen,Decor,5185.0,5989.44
+708,PROD00708,Home & Kitchen Decor 708,Home & Kitchen,Decor,1821.0,2357.59
+709,PROD00709,Furniture Storage 709,Furniture,Storage,7467.0,9676.16
+710,PROD00710,Furniture Chairs 710,Furniture,Chairs,12308.0,17684.06
+711,PROD00711,Electronics Audio 711,Electronics,Audio,10512.0,13600.88
+712,PROD00712,Furniture Tables 712,Furniture,Tables,20401.0,26565.68
+713,PROD00713,Home & Kitchen Decor 713,Home & Kitchen,Decor,5909.0,7662.14
+714,PROD00714,Home & Kitchen Decor 714,Home & Kitchen,Decor,1670.0,1892.22
+715,PROD00715,Electronics Laptops 715,Electronics,Laptops,84569.0,94131.9
+716,PROD00716,Furniture Storage 716,Furniture,Storage,11459.0,13375.9
+717,PROD00717,Home & Kitchen Appliances 717,Home & Kitchen,Appliances,6382.0,8992.36
+718,PROD00718,Home & Kitchen Appliances 718,Home & Kitchen,Appliances,4484.0,5135.46
+719,PROD00719,Electronics Audio 719,Electronics,Audio,104170.0,137172.86
+720,PROD00720,Electronics Accessories 720,Electronics,Accessories,65289.0,97666.49
+721,PROD00721,Electronics Laptops 721,Electronics,Laptops,86042.0,124754.36
+722,PROD00722,Electronics Accessories 722,Electronics,Accessories,76895.0,95306.03
+723,PROD00723,Electronics Accessories 723,Electronics,Accessories,38772.0,54678.32
+724,PROD00724,Furniture Chairs 724,Furniture,Chairs,21265.0,29253.27
+725,PROD00725,Home & Kitchen Cookware 725,Home & Kitchen,Cookware,5347.0,6179.5
+726,PROD00726,Furniture Chairs 726,Furniture,Chairs,3945.0,5239.08
+727,PROD00727,Clothing Jackets 727,Clothing,Jackets,2406.0,2808.65
+728,PROD00728,Clothing Jeans 728,Clothing,Jeans,2545.0,3071.66
+729,PROD00729,Electronics Laptops 729,Electronics,Laptops,115897.0,170079.71
+730,PROD00730,Clothing Jackets 730,Clothing,Jackets,719.0,992.63
+731,PROD00731,Furniture Chairs 731,Furniture,Chairs,6792.0,9403.92
+732,PROD00732,Furniture Storage 732,Furniture,Storage,14868.0,19265.71
+733,PROD00733,Clothing Jackets 733,Clothing,Jackets,1896.0,2370.13
+734,PROD00734,Electronics Mobiles 734,Electronics,Mobiles,113604.0,148394.7
+735,PROD00735,Clothing Jackets 735,Clothing,Jackets,1711.0,2193.29
+736,PROD00736,Home & Kitchen Decor 736,Home & Kitchen,Decor,5067.0,5578.71
+737,PROD00737,Electronics Accessories 737,Electronics,Accessories,101905.0,146747.53
+738,PROD00738,Home & Kitchen Cookware 738,Home & Kitchen,Cookware,3819.0,5460.94
+739,PROD00739,Home & Kitchen Decor 739,Home & Kitchen,Decor,2944.0,4213.86
+740,PROD00740,Clothing Jackets 740,Clothing,Jackets,2567.0,2957.79
+741,PROD00741,Home & Kitchen Decor 741,Home & Kitchen,Decor,7624.0,10467.91
+742,PROD00742,Electronics Mobiles 742,Electronics,Mobiles,34102.0,46053.79
+743,PROD00743,Home & Kitchen Cookware 743,Home & Kitchen,Cookware,1317.0,1938.33
+744,PROD00744,Furniture Tables 744,Furniture,Tables,16959.0,18659.49
+745,PROD00745,Home & Kitchen Cookware 745,Home & Kitchen,Cookware,5940.0,8694.75
+746,PROD00746,Clothing T-Shirts 746,Clothing,T-Shirts,1322.0,1503.56
+747,PROD00747,Clothing Jeans 747,Clothing,Jeans,537.0,670.57
+748,PROD00748,Furniture Chairs 748,Furniture,Chairs,14987.0,20236.07
+749,PROD00749,Furniture Tables 749,Furniture,Tables,23478.0,26682.27
+750,PROD00750,Electronics Mobiles 750,Electronics,Mobiles,63947.0,82537.84
+751,PROD00751,Furniture Storage 751,Furniture,Storage,9411.0,12307.5
+752,PROD00752,Home & Kitchen Cookware 752,Home & Kitchen,Cookware,366.0,504.44
+753,PROD00753,Electronics Accessories 753,Electronics,Accessories,42648.0,55061.98
+754,PROD00754,Furniture Tables 754,Furniture,Tables,4927.0,6859.89
+755,PROD00755,Electronics Mobiles 755,Electronics,Mobiles,90143.0,112410.55
+756,PROD00756,Clothing T-Shirts 756,Clothing,T-Shirts,1767.0,2490.38
+757,PROD00757,Furniture Storage 757,Furniture,Storage,24188.0,27988.93
+758,PROD00758,Electronics Laptops 758,Electronics,Laptops,123369.0,153036.17
+759,PROD00759,Furniture Storage 759,Furniture,Storage,6960.0,10216.99
+760,PROD00760,Home & Kitchen Cookware 760,Home & Kitchen,Cookware,1010.0,1473.22
+761,PROD00761,Furniture Chairs 761,Furniture,Chairs,21319.0,29676.13
+762,PROD00762,Clothing Jeans 762,Clothing,Jeans,1488.0,2107.65
+763,PROD00763,Furniture Tables 763,Furniture,Tables,23122.0,26213.4
+764,PROD00764,Clothing Jackets 764,Clothing,Jackets,309.0,444.7
+765,PROD00765,Clothing T-Shirts 765,Clothing,T-Shirts,2320.0,3115.23
+766,PROD00766,Furniture Storage 766,Furniture,Storage,14836.0,18073.46
+767,PROD00767,Electronics Laptops 767,Electronics,Laptops,137731.0,172763.46
+768,PROD00768,Furniture Tables 768,Furniture,Tables,22908.0,30641.1
+769,PROD00769,Electronics Audio 769,Electronics,Audio,90961.0,104859.22
+770,PROD00770,Home & Kitchen Decor 770,Home & Kitchen,Decor,4775.0,6556.92
+771,PROD00771,Home & Kitchen Cookware 771,Home & Kitchen,Cookware,436.0,582.04
+772,PROD00772,Electronics Audio 772,Electronics,Audio,64555.0,72038.91
+773,PROD00773,Electronics Accessories 773,Electronics,Accessories,140804.0,171019.85
+774,PROD00774,Home & Kitchen Decor 774,Home & Kitchen,Decor,6049.0,7627.25
+775,PROD00775,Furniture Tables 775,Furniture,Tables,4739.0,5800.36
+776,PROD00776,Furniture Chairs 776,Furniture,Chairs,19576.0,24092.19
+777,PROD00777,Electronics Audio 777,Electronics,Audio,122684.0,170774.09
+778,PROD00778,Furniture Chairs 778,Furniture,Chairs,10011.0,11357.33
+779,PROD00779,Home & Kitchen Cookware 779,Home & Kitchen,Cookware,4014.0,5398.5
+780,PROD00780,Electronics Audio 780,Electronics,Audio,54044.0,62030.47
+781,PROD00781,Furniture Storage 781,Furniture,Storage,2371.0,2763.48
+782,PROD00782,Clothing Jackets 782,Clothing,Jackets,2318.0,3275.79
+783,PROD00783,Clothing T-Shirts 783,Clothing,T-Shirts,1723.0,1982.78
+784,PROD00784,Clothing Jackets 784,Clothing,Jackets,683.0,962.05
+785,PROD00785,Electronics Audio 785,Electronics,Audio,120544.0,145712.65
+786,PROD00786,Electronics Audio 786,Electronics,Audio,28203.0,36620.44
+787,PROD00787,Clothing T-Shirts 787,Clothing,T-Shirts,2246.0,3242.65
+788,PROD00788,Furniture Tables 788,Furniture,Tables,7154.0,8599.44
+789,PROD00789,Electronics Mobiles 789,Electronics,Mobiles,67874.0,94773.28
+790,PROD00790,Electronics Mobiles 790,Electronics,Mobiles,11221.0,13440.74
+791,PROD00791,Home & Kitchen Decor 791,Home & Kitchen,Decor,3437.0,5045.83
+792,PROD00792,Furniture Chairs 792,Furniture,Chairs,20116.0,28589.79
+793,PROD00793,Home & Kitchen Cookware 793,Home & Kitchen,Cookware,2936.0,3521.16
+794,PROD00794,Clothing Jeans 794,Clothing,Jeans,519.0,689.55
+795,PROD00795,Electronics Mobiles 795,Electronics,Mobiles,55014.0,65426.72
+796,PROD00796,Electronics Accessories 796,Electronics,Accessories,26068.0,37819.36
+797,PROD00797,Clothing Jeans 797,Clothing,Jeans,1540.0,1747.21
+798,PROD00798,Home & Kitchen Cookware 798,Home & Kitchen,Cookware,3322.0,3920.85
+799,PROD00799,Clothing Jackets 799,Clothing,Jackets,2750.0,3291.84
+800,PROD00800,Clothing Jackets 800,Clothing,Jackets,2220.0,3328.03
+801,PROD00801,Furniture Storage 801,Furniture,Storage,19909.0,27956.08
+802,PROD00802,Furniture Chairs 802,Furniture,Chairs,2208.0,3252.29
+803,PROD00803,Electronics Laptops 803,Electronics,Laptops,149962.0,185738.36
+804,PROD00804,Electronics Audio 804,Electronics,Audio,8383.0,11766.14
+805,PROD00805,Home & Kitchen Appliances 805,Home & Kitchen,Appliances,6257.0,7652.34
+806,PROD00806,Furniture Storage 806,Furniture,Storage,9804.0,12430.75
+807,PROD00807,Electronics Laptops 807,Electronics,Laptops,81354.0,92516.64
+808,PROD00808,Furniture Storage 808,Furniture,Storage,15535.0,21443.56
+809,PROD00809,Clothing Jeans 809,Clothing,Jeans,547.0,728.77
+810,PROD00810,Furniture Storage 810,Furniture,Storage,14922.0,16860.85
+811,PROD00811,Electronics Accessories 811,Electronics,Accessories,42264.0,50493.17
+812,PROD00812,Clothing Jeans 812,Clothing,Jeans,1809.0,2496.95
+813,PROD00813,Clothing Jeans 813,Clothing,Jeans,2054.0,2482.84
+814,PROD00814,Electronics Laptops 814,Electronics,Laptops,43680.0,61675.06
+815,PROD00815,Electronics Laptops 815,Electronics,Laptops,35697.0,41613.78
+816,PROD00816,Home & Kitchen Decor 816,Home & Kitchen,Decor,3630.0,4168.31
+817,PROD00817,Clothing T-Shirts 817,Clothing,T-Shirts,2051.0,2509.04
+818,PROD00818,Clothing T-Shirts 818,Clothing,T-Shirts,570.0,662.94
+819,PROD00819,Clothing Jackets 819,Clothing,Jackets,2671.0,2981.19
+820,PROD00820,Clothing T-Shirts 820,Clothing,T-Shirts,573.0,793.3
+821,PROD00821,Clothing Jeans 821,Clothing,Jeans,2303.0,2578.39
+822,PROD00822,Clothing Jeans 822,Clothing,Jeans,912.0,1014.54
+823,PROD00823,Home & Kitchen Decor 823,Home & Kitchen,Decor,4854.0,6791.87
+824,PROD00824,Furniture Chairs 824,Furniture,Chairs,17140.0,19552.68
+825,PROD00825,Furniture Chairs 825,Furniture,Chairs,2391.0,2689.08
+826,PROD00826,Furniture Chairs 826,Furniture,Chairs,8492.0,12139.05
+827,PROD00827,Clothing Jackets 827,Clothing,Jackets,2781.0,4102.06
+828,PROD00828,Electronics Audio 828,Electronics,Audio,27657.0,30663.87
+829,PROD00829,Electronics Laptops 829,Electronics,Laptops,124242.0,176885.75
+830,PROD00830,Electronics Audio 830,Electronics,Audio,40119.0,44816.07
+831,PROD00831,Home & Kitchen Cookware 831,Home & Kitchen,Cookware,1676.0,2463.14
+832,PROD00832,Home & Kitchen Appliances 832,Home & Kitchen,Appliances,3535.0,4590.02
+833,PROD00833,Home & Kitchen Appliances 833,Home & Kitchen,Appliances,3795.0,4436.82
+834,PROD00834,Furniture Chairs 834,Furniture,Chairs,11010.0,13343.48
+835,PROD00835,Furniture Chairs 835,Furniture,Chairs,22123.0,29814.52
+836,PROD00836,Furniture Storage 836,Furniture,Storage,11670.0,15165.83
+837,PROD00837,Home & Kitchen Cookware 837,Home & Kitchen,Cookware,1018.0,1233.72
+838,PROD00838,Furniture Tables 838,Furniture,Tables,8535.0,11582.52
+839,PROD00839,Furniture Storage 839,Furniture,Storage,19814.0,28095.03
+840,PROD00840,Home & Kitchen Appliances 840,Home & Kitchen,Appliances,3241.0,4186.96
+841,PROD00841,Home & Kitchen Decor 841,Home & Kitchen,Decor,7776.0,10313.0
+842,PROD00842,Clothing Jeans 842,Clothing,Jeans,1307.0,1531.71
+843,PROD00843,Clothing Jackets 843,Clothing,Jackets,1097.0,1219.56
+844,PROD00844,Clothing T-Shirts 844,Clothing,T-Shirts,2132.0,2796.7
+845,PROD00845,Furniture Chairs 845,Furniture,Chairs,5281.0,6332.67
+846,PROD00846,Furniture Tables 846,Furniture,Tables,19487.0,27798.48
+847,PROD00847,Electronics Laptops 847,Electronics,Laptops,109822.0,136390.34
+848,PROD00848,Furniture Chairs 848,Furniture,Chairs,9751.0,13037.16
+849,PROD00849,Clothing Jackets 849,Clothing,Jackets,315.0,435.14
+850,PROD00850,Clothing Jackets 850,Clothing,Jackets,2508.0,2901.36
+851,PROD00851,Furniture Tables 851,Furniture,Tables,19764.0,24183.65
+852,PROD00852,Home & Kitchen Cookware 852,Home & Kitchen,Cookware,1039.0,1166.24
+853,PROD00853,Furniture Chairs 853,Furniture,Chairs,19250.0,24855.52
+854,PROD00854,Clothing Jackets 854,Clothing,Jackets,1025.0,1458.14
+855,PROD00855,Clothing Jackets 855,Clothing,Jackets,926.0,1358.92
+856,PROD00856,Clothing T-Shirts 856,Clothing,T-Shirts,289.0,334.98
+857,PROD00857,Furniture Chairs 857,Furniture,Chairs,19245.0,27794.93
+858,PROD00858,Electronics Audio 858,Electronics,Audio,111703.0,149057.23
+859,PROD00859,Clothing Jeans 859,Clothing,Jeans,1521.0,1756.12
+860,PROD00860,Furniture Storage 860,Furniture,Storage,16315.0,23114.06
+861,PROD00861,Home & Kitchen Appliances 861,Home & Kitchen,Appliances,2899.0,3390.91
+862,PROD00862,Clothing T-Shirts 862,Clothing,T-Shirts,2926.0,3907.91
+863,PROD00863,Furniture Tables 863,Furniture,Tables,12053.0,16797.04
+864,PROD00864,Clothing T-Shirts 864,Clothing,T-Shirts,927.0,1289.95
+865,PROD00865,Home & Kitchen Appliances 865,Home & Kitchen,Appliances,565.0,662.65
+866,PROD00866,Clothing Jackets 866,Clothing,Jackets,1104.0,1496.87
+867,PROD00867,Electronics Accessories 867,Electronics,Accessories,44868.0,55298.35
+868,PROD00868,Electronics Laptops 868,Electronics,Laptops,98914.0,147673.84
+869,PROD00869,Furniture Storage 869,Furniture,Storage,4907.0,7010.46
+870,PROD00870,Clothing Jeans 870,Clothing,Jeans,246.0,296.7
+871,PROD00871,Furniture Storage 871,Furniture,Storage,4221.0,5234.85
+872,PROD00872,Electronics Mobiles 872,Electronics,Mobiles,20621.0,25866.46
+873,PROD00873,Home & Kitchen Cookware 873,Home & Kitchen,Cookware,7546.0,9550.28
+874,PROD00874,Home & Kitchen Decor 874,Home & Kitchen,Decor,4773.0,5966.91
+875,PROD00875,Home & Kitchen Appliances 875,Home & Kitchen,Appliances,5632.0,7903.37
+876,PROD00876,Furniture Chairs 876,Furniture,Chairs,16787.0,18960.64
+877,PROD00877,Electronics Audio 877,Electronics,Audio,13263.0,16280.16
+878,PROD00878,Electronics Mobiles 878,Electronics,Mobiles,97602.0,114003.24
+879,PROD00879,Home & Kitchen Cookware 879,Home & Kitchen,Cookware,6296.0,7114.49
+880,PROD00880,Electronics Audio 880,Electronics,Audio,134546.0,185915.91
+881,PROD00881,Home & Kitchen Appliances 881,Home & Kitchen,Appliances,1651.0,2217.17
+882,PROD00882,Home & Kitchen Cookware 882,Home & Kitchen,Cookware,738.0,841.69
+883,PROD00883,Furniture Chairs 883,Furniture,Chairs,15411.0,21249.9
+884,PROD00884,Clothing Jackets 884,Clothing,Jackets,1353.0,1649.25
+885,PROD00885,Electronics Mobiles 885,Electronics,Mobiles,110996.0,147481.26
+886,PROD00886,Home & Kitchen Cookware 886,Home & Kitchen,Cookware,746.0,928.27
+887,PROD00887,Home & Kitchen Cookware 887,Home & Kitchen,Cookware,2712.0,3876.96
+888,PROD00888,Home & Kitchen Cookware 888,Home & Kitchen,Cookware,1094.0,1214.66
+889,PROD00889,Furniture Storage 889,Furniture,Storage,11562.0,17236.9
+890,PROD00890,Home & Kitchen Cookware 890,Home & Kitchen,Cookware,2826.0,3995.82
+891,PROD00891,Home & Kitchen Decor 891,Home & Kitchen,Decor,7630.0,10410.49
+892,PROD00892,Electronics Accessories 892,Electronics,Accessories,56465.0,70491.37
+893,PROD00893,Home & Kitchen Decor 893,Home & Kitchen,Decor,1828.0,2336.75
+894,PROD00894,Clothing Jeans 894,Clothing,Jeans,2104.0,2536.08
+895,PROD00895,Clothing Jackets 895,Clothing,Jackets,452.0,524.52
+896,PROD00896,Electronics Mobiles 896,Electronics,Mobiles,98122.0,139654.3
+897,PROD00897,Home & Kitchen Appliances 897,Home & Kitchen,Appliances,2163.0,2858.28
+898,PROD00898,Home & Kitchen Appliances 898,Home & Kitchen,Appliances,3729.0,5542.23
+899,PROD00899,Home & Kitchen Appliances 899,Home & Kitchen,Appliances,7522.0,8983.2
+900,PROD00900,Clothing T-Shirts 900,Clothing,T-Shirts,1817.0,2654.84
+901,PROD00901,Electronics Laptops 901,Electronics,Laptops,39531.0,58494.1
+902,PROD00902,Home & Kitchen Cookware 902,Home & Kitchen,Cookware,1669.0,2484.92
+903,PROD00903,Furniture Chairs 903,Furniture,Chairs,3398.0,4313.25
+904,PROD00904,Home & Kitchen Cookware 904,Home & Kitchen,Cookware,7038.0,9507.57
+905,PROD00905,Clothing Jeans 905,Clothing,Jeans,474.0,537.9
+906,PROD00906,Home & Kitchen Appliances 906,Home & Kitchen,Appliances,2971.0,4286.11
+907,PROD00907,Home & Kitchen Cookware 907,Home & Kitchen,Cookware,6743.0,9306.45
+908,PROD00908,Home & Kitchen Cookware 908,Home & Kitchen,Cookware,3695.0,4285.67
+909,PROD00909,Electronics Mobiles 909,Electronics,Mobiles,34474.0,48756.52
+910,PROD00910,Clothing Jeans 910,Clothing,Jeans,1281.0,1605.37
+911,PROD00911,Home & Kitchen Appliances 911,Home & Kitchen,Appliances,5288.0,6817.39
+912,PROD00912,Furniture Tables 912,Furniture,Tables,15204.0,17599.25
+913,PROD00913,Home & Kitchen Cookware 913,Home & Kitchen,Cookware,3542.0,5156.55
+914,PROD00914,Clothing Jackets 914,Clothing,Jackets,1173.0,1313.43
+915,PROD00915,Home & Kitchen Decor 915,Home & Kitchen,Decor,7648.0,9552.17
+916,PROD00916,Clothing Jeans 916,Clothing,Jeans,1473.0,1785.48
+917,PROD00917,Home & Kitchen Appliances 917,Home & Kitchen,Appliances,5910.0,6733.19
+918,PROD00918,Furniture Chairs 918,Furniture,Chairs,11846.0,17646.84
+919,PROD00919,Home & Kitchen Decor 919,Home & Kitchen,Decor,2507.0,3488.54
+920,PROD00920,Electronics Laptops 920,Electronics,Laptops,123793.0,146639.77
+921,PROD00921,Home & Kitchen Appliances 921,Home & Kitchen,Appliances,4268.0,5991.41
+922,PROD00922,Clothing T-Shirts 922,Clothing,T-Shirts,2310.0,3272.34
+923,PROD00923,Electronics Audio 923,Electronics,Audio,140853.0,177665.5
+924,PROD00924,Electronics Laptops 924,Electronics,Laptops,58531.0,84874.18
+925,PROD00925,Furniture Chairs 925,Furniture,Chairs,10175.0,11327.1
+926,PROD00926,Electronics Audio 926,Electronics,Audio,60195.0,72811.33
+927,PROD00927,Home & Kitchen Appliances 927,Home & Kitchen,Appliances,3551.0,4808.64
+928,PROD00928,Electronics Mobiles 928,Electronics,Mobiles,71422.0,89205.13
+929,PROD00929,Home & Kitchen Cookware 929,Home & Kitchen,Cookware,7430.0,9583.46
+930,PROD00930,Clothing Jeans 930,Clothing,Jeans,869.0,1247.07
+931,PROD00931,Clothing Jackets 931,Clothing,Jackets,570.0,692.0
+932,PROD00932,Home & Kitchen Cookware 932,Home & Kitchen,Cookware,1634.0,2355.46
+933,PROD00933,Furniture Chairs 933,Furniture,Chairs,23213.0,27624.51
+934,PROD00934,Furniture Tables 934,Furniture,Tables,23351.0,29511.06
+935,PROD00935,Electronics Mobiles 935,Electronics,Mobiles,132281.0,193739.57
+936,PROD00936,Furniture Storage 936,Furniture,Storage,2277.0,2708.51
+937,PROD00937,Clothing Jackets 937,Clothing,Jackets,2832.0,3427.15
+938,PROD00938,Home & Kitchen Decor 938,Home & Kitchen,Decor,4060.0,4875.25
+939,PROD00939,Home & Kitchen Decor 939,Home & Kitchen,Decor,5847.0,7649.37
+940,PROD00940,Home & Kitchen Appliances 940,Home & Kitchen,Appliances,1138.0,1255.14
+941,PROD00941,Clothing Jackets 941,Clothing,Jackets,2851.0,3813.24
+942,PROD00942,Clothing Jeans 942,Clothing,Jeans,642.0,829.91
+943,PROD00943,Clothing Jeans 943,Clothing,Jeans,2823.0,3472.44
+944,PROD00944,Clothing Jeans 944,Clothing,Jeans,2887.0,3996.87
+945,PROD00945,Clothing T-Shirts 945,Clothing,T-Shirts,814.0,1063.83
+946,PROD00946,Furniture Chairs 946,Furniture,Chairs,21661.0,27328.37
+947,PROD00947,Clothing Jackets 947,Clothing,Jackets,773.0,1073.32
+948,PROD00948,Home & Kitchen Decor 948,Home & Kitchen,Decor,2425.0,3547.2
+949,PROD00949,Home & Kitchen Decor 949,Home & Kitchen,Decor,6335.0,7058.0
+950,PROD00950,Furniture Tables 950,Furniture,Tables,9286.0,12763.86
+951,PROD00951,Home & Kitchen Appliances 951,Home & Kitchen,Appliances,3236.0,4216.27
+952,PROD00952,Furniture Storage 952,Furniture,Storage,20292.0,23791.44
+953,PROD00953,Electronics Accessories 953,Electronics,Accessories,41539.0,58003.71
+954,PROD00954,Furniture Storage 954,Furniture,Storage,12998.0,17700.34
+955,PROD00955,Furniture Tables 955,Furniture,Tables,9318.0,13023.62
+956,PROD00956,Clothing Jeans 956,Clothing,Jeans,1557.0,1944.18
+957,PROD00957,Clothing Jeans 957,Clothing,Jeans,682.0,878.56
+958,PROD00958,Electronics Accessories 958,Electronics,Accessories,58998.0,76708.67
+959,PROD00959,Home & Kitchen Appliances 959,Home & Kitchen,Appliances,2744.0,3471.83
+960,PROD00960,Furniture Chairs 960,Furniture,Chairs,8563.0,10593.01
+961,PROD00961,Home & Kitchen Cookware 961,Home & Kitchen,Cookware,2891.0,4177.37
+962,PROD00962,Furniture Chairs 962,Furniture,Chairs,17977.0,22166.57
+963,PROD00963,Furniture Tables 963,Furniture,Tables,22791.0,25598.98
+964,PROD00964,Home & Kitchen Decor 964,Home & Kitchen,Decor,2015.0,2830.02
+965,PROD00965,Furniture Storage 965,Furniture,Storage,7191.0,9318.32
+966,PROD00966,Electronics Laptops 966,Electronics,Laptops,121694.0,164700.05
+967,PROD00967,Home & Kitchen Decor 967,Home & Kitchen,Decor,4210.0,5276.5
+968,PROD00968,Electronics Laptops 968,Electronics,Laptops,105806.0,156595.78
+969,PROD00969,Clothing Jackets 969,Clothing,Jackets,980.0,1085.02
+970,PROD00970,Electronics Laptops 970,Electronics,Laptops,67314.0,92718.97
+971,PROD00971,Clothing Jeans 971,Clothing,Jeans,728.0,830.71
+972,PROD00972,Clothing T-Shirts 972,Clothing,T-Shirts,467.0,667.59
+973,PROD00973,Clothing Jeans 973,Clothing,Jeans,2067.0,2875.47
+974,PROD00974,Clothing Jeans 974,Clothing,Jeans,748.0,925.35
+975,PROD00975,Home & Kitchen Decor 975,Home & Kitchen,Decor,6444.0,7574.09
+976,PROD00976,Home & Kitchen Cookware 976,Home & Kitchen,Cookware,2171.0,2582.9
+977,PROD00977,Furniture Chairs 977,Furniture,Chairs,2718.0,3630.91
+978,PROD00978,Furniture Chairs 978,Furniture,Chairs,14012.0,19398.83
+979,PROD00979,Electronics Accessories 979,Electronics,Accessories,75053.0,105712.14
+980,PROD00980,Electronics Mobiles 980,Electronics,Mobiles,36341.0,49475.62
+981,PROD00981,Electronics Mobiles 981,Electronics,Mobiles,38353.0,48582.14
+982,PROD00982,Home & Kitchen Cookware 982,Home & Kitchen,Cookware,4783.0,5744.84
+983,PROD00983,Furniture Chairs 983,Furniture,Chairs,24780.0,34055.06
+984,PROD00984,Electronics Audio 984,Electronics,Audio,118328.0,161478.18
+985,PROD00985,Clothing Jackets 985,Clothing,Jackets,2680.0,3699.18
+986,PROD00986,Home & Kitchen Cookware 986,Home & Kitchen,Cookware,4490.0,6229.9
+987,PROD00987,Electronics Audio 987,Electronics,Audio,37887.0,53568.58
+988,PROD00988,Home & Kitchen Cookware 988,Home & Kitchen,Cookware,5288.0,6239.31
+989,PROD00989,Clothing Jackets 989,Clothing,Jackets,1026.0,1275.49
+990,PROD00990,Home & Kitchen Decor 990,Home & Kitchen,Decor,1613.0,1799.72
+991,PROD00991,Home & Kitchen Cookware 991,Home & Kitchen,Cookware,5937.0,8746.68
+992,PROD00992,Clothing T-Shirts 992,Clothing,T-Shirts,211.0,233.18
+993,PROD00993,Electronics Mobiles 993,Electronics,Mobiles,137526.0,159483.1
+994,PROD00994,Electronics Mobiles 994,Electronics,Mobiles,34552.0,50511.97
+995,PROD00995,Furniture Tables 995,Furniture,Tables,11700.0,14106.11
+996,PROD00996,Electronics Mobiles 996,Electronics,Mobiles,53797.0,77987.15
+997,PROD00997,Clothing Jeans 997,Clothing,Jeans,2972.0,3640.95
+998,PROD00998,Electronics Mobiles 998,Electronics,Mobiles,20029.0,22109.39
+999,PROD00999,Furniture Storage 999,Furniture,Storage,23207.0,27110.53
+1000,PROD01000,Clothing Jeans 1000,Clothing,Jeans,2746.0,3315.31
+1001,PROD01001,Electronics Audio 1001,Electronics,Audio,97842.0,114783.12
+1002,PROD01002,Home & Kitchen Decor 1002,Home & Kitchen,Decor,4039.0,4882.07
+1003,PROD01003,Home & Kitchen Appliances 1003,Home & Kitchen,Appliances,7268.0,9385.15
+1004,PROD01004,Home & Kitchen Appliances 1004,Home & Kitchen,Appliances,7559.0,10724.44
+1005,PROD01005,Electronics Laptops 1005,Electronics,Laptops,23373.0,34887.19
+1006,PROD01006,Furniture Chairs 1006,Furniture,Chairs,15632.0,22892.92
+1007,PROD01007,Home & Kitchen Appliances 1007,Home & Kitchen,Appliances,5857.0,7469.23
+1008,PROD01008,Home & Kitchen Decor 1008,Home & Kitchen,Decor,5308.0,5899.98
+1009,PROD01009,Furniture Tables 1009,Furniture,Tables,17994.0,20606.28
+1010,PROD01010,Home & Kitchen Decor 1010,Home & Kitchen,Decor,676.0,760.73
+1011,PROD01011,Clothing T-Shirts 1011,Clothing,T-Shirts,2976.0,3898.34
+1012,PROD01012,Furniture Storage 1012,Furniture,Storage,13085.0,17110.47
+1013,PROD01013,Electronics Accessories 1013,Electronics,Accessories,73162.0,94581.78
+1014,PROD01014,Home & Kitchen Cookware 1014,Home & Kitchen,Cookware,7173.0,10261.52
+1015,PROD01015,Electronics Mobiles 1015,Electronics,Mobiles,49137.0,63987.53
+1016,PROD01016,Home & Kitchen Decor 1016,Home & Kitchen,Decor,7422.0,8655.25
+1017,PROD01017,Home & Kitchen Decor 1017,Home & Kitchen,Decor,2273.0,2801.15
+1018,PROD01018,Clothing T-Shirts 1018,Clothing,T-Shirts,2276.0,2706.35
+1019,PROD01019,Home & Kitchen Decor 1019,Home & Kitchen,Decor,6993.0,8349.64
+1020,PROD01020,Home & Kitchen Decor 1020,Home & Kitchen,Decor,6863.0,9122.4
+1021,PROD01021,Electronics Accessories 1021,Electronics,Accessories,125196.0,153543.46
+1022,PROD01022,Home & Kitchen Appliances 1022,Home & Kitchen,Appliances,5652.0,6257.37
+1023,PROD01023,Home & Kitchen Decor 1023,Home & Kitchen,Decor,593.0,784.45
+1024,PROD01024,Electronics Mobiles 1024,Electronics,Mobiles,87848.0,127910.58
+1025,PROD01025,Furniture Storage 1025,Furniture,Storage,24002.0,30782.16
+1026,PROD01026,Clothing Jeans 1026,Clothing,Jeans,422.0,602.04
+1027,PROD01027,Home & Kitchen Decor 1027,Home & Kitchen,Decor,4888.0,6877.25
+1028,PROD01028,Home & Kitchen Appliances 1028,Home & Kitchen,Appliances,5683.0,7077.14
+1029,PROD01029,Home & Kitchen Cookware 1029,Home & Kitchen,Cookware,1098.0,1541.29
+1030,PROD01030,Furniture Chairs 1030,Furniture,Chairs,13185.0,16376.5
+1031,PROD01031,Clothing Jackets 1031,Clothing,Jackets,2338.0,2921.46
+1032,PROD01032,Electronics Mobiles 1032,Electronics,Mobiles,51032.0,66186.91
+1033,PROD01033,Home & Kitchen Cookware 1033,Home & Kitchen,Cookware,2383.0,3203.56
+1034,PROD01034,Furniture Chairs 1034,Furniture,Chairs,14874.0,17644.07
+1035,PROD01035,Furniture Storage 1035,Furniture,Storage,13073.0,14943.83
+1036,PROD01036,Home & Kitchen Cookware 1036,Home & Kitchen,Cookware,7890.0,10677.51
+1037,PROD01037,Electronics Accessories 1037,Electronics,Accessories,127901.0,174378.01
+1038,PROD01038,Furniture Tables 1038,Furniture,Tables,2142.0,2810.62
+1039,PROD01039,Electronics Accessories 1039,Electronics,Accessories,134597.0,197823.72
+1040,PROD01040,Furniture Storage 1040,Furniture,Storage,20958.0,24509.54
+1041,PROD01041,Furniture Chairs 1041,Furniture,Chairs,14694.0,20028.05
+1042,PROD01042,Clothing Jackets 1042,Clothing,Jackets,1775.0,2249.75
+1043,PROD01043,Furniture Tables 1043,Furniture,Tables,15037.0,22336.52
+1044,PROD01044,Clothing Jeans 1044,Clothing,Jeans,746.0,861.83
+1045,PROD01045,Clothing Jackets 1045,Clothing,Jackets,2443.0,3528.38
+1046,PROD01046,Furniture Chairs 1046,Furniture,Chairs,8871.0,11972.9
+1047,PROD01047,Clothing Jackets 1047,Clothing,Jackets,1614.0,2370.12
+1048,PROD01048,Furniture Storage 1048,Furniture,Storage,23302.0,34721.65
+1049,PROD01049,Furniture Storage 1049,Furniture,Storage,19776.0,27245.89
+1050,PROD01050,Clothing Jackets 1050,Clothing,Jackets,672.0,943.7
+1051,PROD01051,Home & Kitchen Appliances 1051,Home & Kitchen,Appliances,4974.0,7346.94
+1052,PROD01052,Home & Kitchen Appliances 1052,Home & Kitchen,Appliances,6426.0,9366.19
+1053,PROD01053,Clothing Jeans 1053,Clothing,Jeans,252.0,329.89
+1054,PROD01054,Electronics Accessories 1054,Electronics,Accessories,46096.0,51684.03
+1055,PROD01055,Electronics Laptops 1055,Electronics,Laptops,77986.0,109186.17
+1056,PROD01056,Furniture Tables 1056,Furniture,Tables,24393.0,29277.07
+1057,PROD01057,Electronics Audio 1057,Electronics,Audio,61477.0,86156.18
+1058,PROD01058,Electronics Audio 1058,Electronics,Audio,126644.0,144499.79
+1059,PROD01059,Furniture Storage 1059,Furniture,Storage,23204.0,30733.89
+1060,PROD01060,Furniture Storage 1060,Furniture,Storage,24810.0,30145.53
+1061,PROD01061,Electronics Accessories 1061,Electronics,Accessories,109595.0,138815.93
+1062,PROD01062,Clothing Jackets 1062,Clothing,Jackets,420.0,464.18
+1063,PROD01063,Clothing T-Shirts 1063,Clothing,T-Shirts,2741.0,3967.71
+1064,PROD01064,Home & Kitchen Cookware 1064,Home & Kitchen,Cookware,7766.0,10511.4
+1065,PROD01065,Clothing Jackets 1065,Clothing,Jackets,2438.0,3401.94
+1066,PROD01066,Furniture Storage 1066,Furniture,Storage,8340.0,10155.38
+1067,PROD01067,Furniture Storage 1067,Furniture,Storage,4440.0,5216.07
+1068,PROD01068,Furniture Storage 1068,Furniture,Storage,18837.0,21620.01
+1069,PROD01069,Electronics Accessories 1069,Electronics,Accessories,81167.0,107354.68
+1070,PROD01070,Furniture Chairs 1070,Furniture,Chairs,21136.0,30402.14
+1071,PROD01071,Electronics Audio 1071,Electronics,Audio,130245.0,180242.89
+1072,PROD01072,Furniture Chairs 1072,Furniture,Chairs,7036.0,10353.13
+1073,PROD01073,Electronics Audio 1073,Electronics,Audio,136594.0,193412.09
+1074,PROD01074,Clothing T-Shirts 1074,Clothing,T-Shirts,1501.0,1966.55
+1075,PROD01075,Furniture Storage 1075,Furniture,Storage,4234.0,5989.01
+1076,PROD01076,Furniture Tables 1076,Furniture,Tables,19795.0,26026.75
+1077,PROD01077,Electronics Audio 1077,Electronics,Audio,65985.0,95899.87
+1078,PROD01078,Clothing Jeans 1078,Clothing,Jeans,1677.0,2041.63
+1079,PROD01079,Home & Kitchen Appliances 1079,Home & Kitchen,Appliances,7047.0,9871.81
+1080,PROD01080,Electronics Mobiles 1080,Electronics,Mobiles,98703.0,126168.78
+1081,PROD01081,Furniture Chairs 1081,Furniture,Chairs,24365.0,35433.14
+1082,PROD01082,Home & Kitchen Cookware 1082,Home & Kitchen,Cookware,3461.0,4162.32
+1083,PROD01083,Clothing T-Shirts 1083,Clothing,T-Shirts,2317.0,3310.63
+1084,PROD01084,Clothing Jackets 1084,Clothing,Jackets,2283.0,2918.18
+1085,PROD01085,Electronics Audio 1085,Electronics,Audio,58465.0,71802.33
+1086,PROD01086,Electronics Mobiles 1086,Electronics,Mobiles,51881.0,77232.73
+1087,PROD01087,Electronics Mobiles 1087,Electronics,Mobiles,63255.0,86541.32
+1088,PROD01088,Furniture Storage 1088,Furniture,Storage,15900.0,22804.83
+1089,PROD01089,Furniture Storage 1089,Furniture,Storage,16261.0,22092.59
+1090,PROD01090,Electronics Laptops 1090,Electronics,Laptops,14226.0,18261.78
+1091,PROD01091,Clothing T-Shirts 1091,Clothing,T-Shirts,558.0,630.15
+1092,PROD01092,Furniture Tables 1092,Furniture,Tables,20287.0,22887.32
+1093,PROD01093,Furniture Tables 1093,Furniture,Tables,15357.0,19276.31
+1094,PROD01094,Home & Kitchen Decor 1094,Home & Kitchen,Decor,2891.0,3199.63
+1095,PROD01095,Electronics Mobiles 1095,Electronics,Mobiles,24577.0,34466.4
+1096,PROD01096,Electronics Mobiles 1096,Electronics,Mobiles,101768.0,149723.03
+1097,PROD01097,Electronics Audio 1097,Electronics,Audio,86997.0,116804.46
+1098,PROD01098,Clothing Jeans 1098,Clothing,Jeans,1762.0,2216.68
+1099,PROD01099,Electronics Accessories 1099,Electronics,Accessories,48979.0,64328.39
+1100,PROD01100,Furniture Storage 1100,Furniture,Storage,14812.0,21013.91
+1101,PROD01101,Clothing Jackets 1101,Clothing,Jackets,790.0,963.19
+1102,PROD01102,Clothing T-Shirts 1102,Clothing,T-Shirts,2467.0,3576.92
+1103,PROD01103,Furniture Chairs 1103,Furniture,Chairs,3368.0,3711.58
+1104,PROD01104,Home & Kitchen Appliances 1104,Home & Kitchen,Appliances,4785.0,7076.02
+1105,PROD01105,Clothing T-Shirts 1105,Clothing,T-Shirts,1608.0,1904.99
+1106,PROD01106,Furniture Chairs 1106,Furniture,Chairs,8029.0,9540.98
+1107,PROD01107,Clothing T-Shirts 1107,Clothing,T-Shirts,669.0,784.43
+1108,PROD01108,Electronics Accessories 1108,Electronics,Accessories,27174.0,33050.68
+1109,PROD01109,Electronics Audio 1109,Electronics,Audio,33743.0,39781.88
+1110,PROD01110,Home & Kitchen Decor 1110,Home & Kitchen,Decor,3225.0,3712.9
+1111,PROD01111,Furniture Chairs 1111,Furniture,Chairs,11343.0,15288.17
+1112,PROD01112,Furniture Tables 1112,Furniture,Tables,17920.0,22942.23
+1113,PROD01113,Clothing Jackets 1113,Clothing,Jackets,2592.0,3009.2
+1114,PROD01114,Clothing Jeans 1114,Clothing,Jeans,1954.0,2281.21
+1115,PROD01115,Clothing T-Shirts 1115,Clothing,T-Shirts,1107.0,1533.06
+1116,PROD01116,Home & Kitchen Decor 1116,Home & Kitchen,Decor,7182.0,8932.93
+1117,PROD01117,Clothing Jeans 1117,Clothing,Jeans,2095.0,2677.71
+1118,PROD01118,Clothing Jeans 1118,Clothing,Jeans,2459.0,2811.95
+1119,PROD01119,Electronics Audio 1119,Electronics,Audio,44700.0,65106.39
+1120,PROD01120,Furniture Tables 1120,Furniture,Tables,22533.0,25475.47
+1121,PROD01121,Electronics Mobiles 1121,Electronics,Mobiles,140953.0,190660.16
+1122,PROD01122,Home & Kitchen Appliances 1122,Home & Kitchen,Appliances,2042.0,2986.47
+1123,PROD01123,Clothing Jackets 1123,Clothing,Jackets,2410.0,3106.11
+1124,PROD01124,Furniture Tables 1124,Furniture,Tables,14861.0,17674.52
+1125,PROD01125,Clothing T-Shirts 1125,Clothing,T-Shirts,2103.0,2734.84
+1126,PROD01126,Electronics Accessories 1126,Electronics,Accessories,103385.0,134490.13
+1127,PROD01127,Furniture Storage 1127,Furniture,Storage,24418.0,28479.63
+1128,PROD01128,Furniture Tables 1128,Furniture,Tables,7217.0,8455.86
+1129,PROD01129,Furniture Storage 1129,Furniture,Storage,17843.0,26330.38
+1130,PROD01130,Electronics Laptops 1130,Electronics,Laptops,135832.0,162006.82
+1131,PROD01131,Clothing Jeans 1131,Clothing,Jeans,1158.0,1293.63
+1132,PROD01132,Furniture Storage 1132,Furniture,Storage,13837.0,17368.72
+1133,PROD01133,Home & Kitchen Cookware 1133,Home & Kitchen,Cookware,626.0,934.14
+1134,PROD01134,Clothing T-Shirts 1134,Clothing,T-Shirts,2335.0,3160.25
+1135,PROD01135,Clothing Jackets 1135,Clothing,Jackets,1278.0,1701.6
+1136,PROD01136,Furniture Tables 1136,Furniture,Tables,23419.0,29306.71
+1137,PROD01137,Electronics Audio 1137,Electronics,Audio,106652.0,158812.26
+1138,PROD01138,Furniture Storage 1138,Furniture,Storage,15298.0,18987.25
+1139,PROD01139,Clothing Jeans 1139,Clothing,Jeans,2174.0,3162.88
+1140,PROD01140,Electronics Laptops 1140,Electronics,Laptops,123316.0,143816.34
+1141,PROD01141,Electronics Audio 1141,Electronics,Audio,63447.0,73604.62
+1142,PROD01142,Furniture Tables 1142,Furniture,Tables,21727.0,30133.63
+1143,PROD01143,Electronics Laptops 1143,Electronics,Laptops,116688.0,166218.44
+1144,PROD01144,Electronics Accessories 1144,Electronics,Accessories,133518.0,172452.98
+1145,PROD01145,Furniture Storage 1145,Furniture,Storage,15464.0,17149.24
+1146,PROD01146,Electronics Laptops 1146,Electronics,Laptops,50239.0,57970.26
+1147,PROD01147,Electronics Laptops 1147,Electronics,Laptops,22656.0,26429.05
+1148,PROD01148,Furniture Storage 1148,Furniture,Storage,15285.0,20477.97
+1149,PROD01149,Electronics Audio 1149,Electronics,Audio,30478.0,36166.33
+1150,PROD01150,Home & Kitchen Decor 1150,Home & Kitchen,Decor,1697.0,2015.6
+1151,PROD01151,Home & Kitchen Appliances 1151,Home & Kitchen,Appliances,1469.0,2082.82
+1152,PROD01152,Furniture Storage 1152,Furniture,Storage,23615.0,30801.56
+1153,PROD01153,Furniture Storage 1153,Furniture,Storage,24465.0,30264.88
+1154,PROD01154,Home & Kitchen Appliances 1154,Home & Kitchen,Appliances,5138.0,5793.29
+1155,PROD01155,Home & Kitchen Decor 1155,Home & Kitchen,Decor,1383.0,1581.36
+1156,PROD01156,Furniture Storage 1156,Furniture,Storage,18526.0,25450.04
+1157,PROD01157,Furniture Storage 1157,Furniture,Storage,5155.0,6036.34
+1158,PROD01158,Electronics Mobiles 1158,Electronics,Mobiles,32429.0,41927.34
+1159,PROD01159,Furniture Storage 1159,Furniture,Storage,19671.0,28149.37
+1160,PROD01160,Home & Kitchen Appliances 1160,Home & Kitchen,Appliances,3746.0,4675.57
+1161,PROD01161,Electronics Accessories 1161,Electronics,Accessories,68158.0,100558.18
+1162,PROD01162,Home & Kitchen Decor 1162,Home & Kitchen,Decor,3171.0,4235.25
+1163,PROD01163,Electronics Accessories 1163,Electronics,Accessories,43096.0,51793.08
+1164,PROD01164,Furniture Chairs 1164,Furniture,Chairs,11282.0,15110.17
+1165,PROD01165,Home & Kitchen Decor 1165,Home & Kitchen,Decor,1848.0,2036.84
+1166,PROD01166,Electronics Mobiles 1166,Electronics,Mobiles,144252.0,159092.3
+1167,PROD01167,Furniture Storage 1167,Furniture,Storage,12351.0,15605.96
+1168,PROD01168,Electronics Laptops 1168,Electronics,Laptops,119692.0,162856.57
+1169,PROD01169,Clothing Jeans 1169,Clothing,Jeans,2395.0,3040.27
+1170,PROD01170,Clothing Jackets 1170,Clothing,Jackets,1328.0,1987.64
+1171,PROD01171,Home & Kitchen Cookware 1171,Home & Kitchen,Cookware,3685.0,4867.3
+1172,PROD01172,Home & Kitchen Cookware 1172,Home & Kitchen,Cookware,3332.0,4410.36
+1173,PROD01173,Home & Kitchen Decor 1173,Home & Kitchen,Decor,2812.0,3742.94
+1174,PROD01174,Home & Kitchen Appliances 1174,Home & Kitchen,Appliances,1431.0,2063.5
+1175,PROD01175,Electronics Laptops 1175,Electronics,Laptops,125072.0,176757.22
+1176,PROD01176,Furniture Chairs 1176,Furniture,Chairs,9027.0,11765.23
+1177,PROD01177,Clothing Jackets 1177,Clothing,Jackets,2715.0,3743.5
+1178,PROD01178,Electronics Laptops 1178,Electronics,Laptops,110001.0,163442.58
+1179,PROD01179,Electronics Mobiles 1179,Electronics,Mobiles,46096.0,59402.42
+1180,PROD01180,Home & Kitchen Cookware 1180,Home & Kitchen,Cookware,824.0,993.12
+1181,PROD01181,Clothing T-Shirts 1181,Clothing,T-Shirts,2694.0,3004.09
+1182,PROD01182,Home & Kitchen Decor 1182,Home & Kitchen,Decor,5329.0,7260.6
+1183,PROD01183,Clothing Jackets 1183,Clothing,Jackets,2647.0,2972.54
+1184,PROD01184,Furniture Storage 1184,Furniture,Storage,18199.0,23214.44
+1185,PROD01185,Furniture Storage 1185,Furniture,Storage,18978.0,23046.93
+1186,PROD01186,Electronics Laptops 1186,Electronics,Laptops,52428.0,71805.9
+1187,PROD01187,Clothing T-Shirts 1187,Clothing,T-Shirts,2882.0,3170.53
+1188,PROD01188,Furniture Chairs 1188,Furniture,Chairs,11041.0,15588.45
+1189,PROD01189,Clothing Jackets 1189,Clothing,Jackets,1818.0,2294.64
+1190,PROD01190,Furniture Storage 1190,Furniture,Storage,2503.0,3491.11
+1191,PROD01191,Electronics Mobiles 1191,Electronics,Mobiles,82578.0,114821.03
+1192,PROD01192,Clothing Jeans 1192,Clothing,Jeans,1332.0,1585.77
+1193,PROD01193,Furniture Tables 1193,Furniture,Tables,15236.0,20263.31
+1194,PROD01194,Clothing T-Shirts 1194,Clothing,T-Shirts,1867.0,2431.76
+1195,PROD01195,Electronics Audio 1195,Electronics,Audio,97120.0,143621.66
+1196,PROD01196,Clothing Jackets 1196,Clothing,Jackets,2554.0,3064.94
+1197,PROD01197,Home & Kitchen Decor 1197,Home & Kitchen,Decor,4913.0,6354.73
+1198,PROD01198,Furniture Tables 1198,Furniture,Tables,17035.0,23382.89
+1199,PROD01199,Electronics Accessories 1199,Electronics,Accessories,38479.0,46295.16
+1200,PROD01200,Home & Kitchen Appliances 1200,Home & Kitchen,Appliances,6760.0,10124.31
+1201,PROD01201,Furniture Tables 1201,Furniture,Tables,15514.0,22994.51
+1202,PROD01202,Electronics Audio 1202,Electronics,Audio,73079.0,88784.83
+1203,PROD01203,Home & Kitchen Appliances 1203,Home & Kitchen,Appliances,6434.0,9190.52
+1204,PROD01204,Electronics Laptops 1204,Electronics,Laptops,132926.0,162907.34
+1205,PROD01205,Furniture Storage 1205,Furniture,Storage,10817.0,12689.57
+1206,PROD01206,Furniture Tables 1206,Furniture,Tables,8542.0,10198.67
+1207,PROD01207,Furniture Tables 1207,Furniture,Tables,8775.0,10457.02
+1208,PROD01208,Furniture Storage 1208,Furniture,Storage,13666.0,15885.33
+1209,PROD01209,Electronics Mobiles 1209,Electronics,Mobiles,28575.0,39157.03
+1210,PROD01210,Home & Kitchen Appliances 1210,Home & Kitchen,Appliances,354.0,497.62
+1211,PROD01211,Electronics Accessories 1211,Electronics,Accessories,105306.0,141980.6
+1212,PROD01212,Home & Kitchen Appliances 1212,Home & Kitchen,Appliances,7416.0,8972.57
+1213,PROD01213,Furniture Storage 1213,Furniture,Storage,11183.0,14081.09
+1214,PROD01214,Furniture Chairs 1214,Furniture,Chairs,19227.0,27296.73
+1215,PROD01215,Home & Kitchen Appliances 1215,Home & Kitchen,Appliances,566.0,736.36
+1216,PROD01216,Home & Kitchen Appliances 1216,Home & Kitchen,Appliances,6656.0,7786.99
+1217,PROD01217,Electronics Accessories 1217,Electronics,Accessories,90746.0,124837.84
+1218,PROD01218,Electronics Laptops 1218,Electronics,Laptops,107464.0,143185.39
+1219,PROD01219,Clothing Jeans 1219,Clothing,Jeans,2709.0,3913.79
+1220,PROD01220,Furniture Storage 1220,Furniture,Storage,10613.0,12681.0
+1221,PROD01221,Home & Kitchen Appliances 1221,Home & Kitchen,Appliances,3110.0,3876.21
+1222,PROD01222,Home & Kitchen Decor 1222,Home & Kitchen,Decor,2024.0,2565.7
+1223,PROD01223,Clothing Jeans 1223,Clothing,Jeans,1840.0,2229.81
+1224,PROD01224,Furniture Storage 1224,Furniture,Storage,6297.0,9393.29
+1225,PROD01225,Furniture Chairs 1225,Furniture,Chairs,10845.0,15417.63
+1226,PROD01226,Home & Kitchen Decor 1226,Home & Kitchen,Decor,1906.0,2207.79
+1227,PROD01227,Furniture Tables 1227,Furniture,Tables,2319.0,2714.72
+1228,PROD01228,Home & Kitchen Cookware 1228,Home & Kitchen,Cookware,7617.0,10966.62
+1229,PROD01229,Clothing Jeans 1229,Clothing,Jeans,1428.0,1714.16
+1230,PROD01230,Electronics Accessories 1230,Electronics,Accessories,33945.0,46715.7
+1231,PROD01231,Electronics Laptops 1231,Electronics,Laptops,74660.0,96357.37
+1232,PROD01232,Electronics Accessories 1232,Electronics,Accessories,95728.0,115247.67
+1233,PROD01233,Clothing Jackets 1233,Clothing,Jackets,2483.0,3656.81
+1234,PROD01234,Clothing Jeans 1234,Clothing,Jeans,281.0,355.38
+1235,PROD01235,Clothing Jackets 1235,Clothing,Jackets,2680.0,3161.28
+1236,PROD01236,Furniture Tables 1236,Furniture,Tables,13636.0,16772.77
+1237,PROD01237,Home & Kitchen Appliances 1237,Home & Kitchen,Appliances,3961.0,5766.63
+1238,PROD01238,Home & Kitchen Appliances 1238,Home & Kitchen,Appliances,2647.0,3402.72
+1239,PROD01239,Furniture Chairs 1239,Furniture,Chairs,22990.0,32716.77
+1240,PROD01240,Clothing Jeans 1240,Clothing,Jeans,2785.0,3745.61
+1241,PROD01241,Home & Kitchen Cookware 1241,Home & Kitchen,Cookware,948.0,1104.23
+1242,PROD01242,Furniture Tables 1242,Furniture,Tables,12383.0,16855.8
+1243,PROD01243,Clothing Jackets 1243,Clothing,Jackets,2840.0,3573.24
+1244,PROD01244,Home & Kitchen Decor 1244,Home & Kitchen,Decor,6426.0,8577.22
+1245,PROD01245,Home & Kitchen Decor 1245,Home & Kitchen,Decor,1670.0,1959.84
+1246,PROD01246,Electronics Laptops 1246,Electronics,Laptops,69506.0,94862.42
+1247,PROD01247,Electronics Laptops 1247,Electronics,Laptops,51754.0,65148.88
+1248,PROD01248,Electronics Mobiles 1248,Electronics,Mobiles,132042.0,174212.72
+1249,PROD01249,Electronics Accessories 1249,Electronics,Accessories,145358.0,204373.14
+1250,PROD01250,Electronics Mobiles 1250,Electronics,Mobiles,76800.0,103468.1
+1251,PROD01251,Electronics Accessories 1251,Electronics,Accessories,89099.0,106183.05
+1252,PROD01252,Clothing Jeans 1252,Clothing,Jeans,2766.0,3182.46
+1253,PROD01253,Furniture Chairs 1253,Furniture,Chairs,3151.0,4302.44
+1254,PROD01254,Clothing Jeans 1254,Clothing,Jeans,2113.0,3148.35
+1255,PROD01255,Clothing Jackets 1255,Clothing,Jackets,2022.0,2333.48
+1256,PROD01256,Furniture Storage 1256,Furniture,Storage,21581.0,27680.17
+1257,PROD01257,Home & Kitchen Appliances 1257,Home & Kitchen,Appliances,5541.0,7512.55
+1258,PROD01258,Clothing Jeans 1258,Clothing,Jeans,2172.0,2858.06
+1259,PROD01259,Electronics Accessories 1259,Electronics,Accessories,88705.0,110554.22
+1260,PROD01260,Clothing T-Shirts 1260,Clothing,T-Shirts,1443.0,1593.39
+1261,PROD01261,Furniture Tables 1261,Furniture,Tables,11396.0,14674.39
+1262,PROD01262,Electronics Accessories 1262,Electronics,Accessories,133060.0,162312.47
+1263,PROD01263,Home & Kitchen Decor 1263,Home & Kitchen,Decor,5190.0,6189.0
+1264,PROD01264,Electronics Audio 1264,Electronics,Audio,57432.0,72633.93
+1265,PROD01265,Home & Kitchen Decor 1265,Home & Kitchen,Decor,2347.0,2734.98
+1266,PROD01266,Home & Kitchen Decor 1266,Home & Kitchen,Decor,2107.0,2539.34
+1267,PROD01267,Home & Kitchen Appliances 1267,Home & Kitchen,Appliances,2262.0,2955.63
+1268,PROD01268,Clothing Jeans 1268,Clothing,Jeans,2856.0,3990.32
+1269,PROD01269,Clothing Jeans 1269,Clothing,Jeans,970.0,1398.15
+1270,PROD01270,Furniture Chairs 1270,Furniture,Chairs,11489.0,13145.05
+1271,PROD01271,Home & Kitchen Appliances 1271,Home & Kitchen,Appliances,4009.0,4846.29
+1272,PROD01272,Home & Kitchen Cookware 1272,Home & Kitchen,Cookware,2926.0,3241.3
+1273,PROD01273,Electronics Mobiles 1273,Electronics,Mobiles,56742.0,84485.04
+1274,PROD01274,Clothing Jeans 1274,Clothing,Jeans,712.0,986.89
+1275,PROD01275,Electronics Laptops 1275,Electronics,Laptops,31644.0,36715.69
+1276,PROD01276,Home & Kitchen Cookware 1276,Home & Kitchen,Cookware,3100.0,3931.1
+1277,PROD01277,Home & Kitchen Decor 1277,Home & Kitchen,Decor,4098.0,5650.22
+1278,PROD01278,Electronics Audio 1278,Electronics,Audio,29030.0,41728.26
+1279,PROD01279,Furniture Chairs 1279,Furniture,Chairs,10732.0,15134.92
+1280,PROD01280,Electronics Accessories 1280,Electronics,Accessories,55606.0,65441.42
+1281,PROD01281,Clothing Jeans 1281,Clothing,Jeans,251.0,288.34
+1282,PROD01282,Furniture Tables 1282,Furniture,Tables,16514.0,19798.05
+1283,PROD01283,Electronics Laptops 1283,Electronics,Laptops,128805.0,179570.8
+1284,PROD01284,Electronics Laptops 1284,Electronics,Laptops,131948.0,165680.4
+1285,PROD01285,Clothing Jeans 1285,Clothing,Jeans,849.0,1147.56
+1286,PROD01286,Electronics Mobiles 1286,Electronics,Mobiles,74404.0,96166.56
+1287,PROD01287,Clothing T-Shirts 1287,Clothing,T-Shirts,1676.0,2438.59
+1288,PROD01288,Furniture Chairs 1288,Furniture,Chairs,9732.0,13168.99
+1289,PROD01289,Clothing T-Shirts 1289,Clothing,T-Shirts,885.0,1254.71
+1290,PROD01290,Electronics Accessories 1290,Electronics,Accessories,71724.0,79152.59
+1291,PROD01291,Electronics Accessories 1291,Electronics,Accessories,48630.0,60717.45
+1292,PROD01292,Electronics Laptops 1292,Electronics,Laptops,49339.0,64139.11
+1293,PROD01293,Clothing Jackets 1293,Clothing,Jackets,445.0,500.14
+1294,PROD01294,Furniture Storage 1294,Furniture,Storage,19575.0,27729.68
+1295,PROD01295,Furniture Tables 1295,Furniture,Tables,9624.0,11805.72
+1296,PROD01296,Clothing Jeans 1296,Clothing,Jeans,990.0,1097.46
+1297,PROD01297,Home & Kitchen Decor 1297,Home & Kitchen,Decor,6234.0,7193.37
+1298,PROD01298,Electronics Accessories 1298,Electronics,Accessories,122688.0,162391.05
+1299,PROD01299,Home & Kitchen Cookware 1299,Home & Kitchen,Cookware,4942.0,5805.12
+1300,PROD01300,Clothing Jeans 1300,Clothing,Jeans,2118.0,2563.05
+1301,PROD01301,Furniture Chairs 1301,Furniture,Chairs,19404.0,22547.65
+1302,PROD01302,Clothing Jeans 1302,Clothing,Jeans,2418.0,3014.87
+1303,PROD01303,Electronics Accessories 1303,Electronics,Accessories,56636.0,82301.9
+1304,PROD01304,Clothing Jackets 1304,Clothing,Jackets,1178.0,1446.91
+1305,PROD01305,Electronics Accessories 1305,Electronics,Accessories,57773.0,75661.13
+1306,PROD01306,Home & Kitchen Appliances 1306,Home & Kitchen,Appliances,1562.0,2101.23
+1307,PROD01307,Clothing Jeans 1307,Clothing,Jeans,2825.0,3471.39
+1308,PROD01308,Electronics Mobiles 1308,Electronics,Mobiles,19475.0,27928.66
+1309,PROD01309,Furniture Chairs 1309,Furniture,Chairs,3024.0,3570.83
+1310,PROD01310,Home & Kitchen Cookware 1310,Home & Kitchen,Cookware,1108.0,1232.9
+1311,PROD01311,Home & Kitchen Appliances 1311,Home & Kitchen,Appliances,4313.0,5651.45
+1312,PROD01312,Clothing T-Shirts 1312,Clothing,T-Shirts,1700.0,2020.09
+1313,PROD01313,Electronics Mobiles 1313,Electronics,Mobiles,62719.0,85442.08
+1314,PROD01314,Electronics Accessories 1314,Electronics,Accessories,23912.0,29755.39
+1315,PROD01315,Home & Kitchen Decor 1315,Home & Kitchen,Decor,6806.0,9415.24
+1316,PROD01316,Clothing Jackets 1316,Clothing,Jackets,366.0,510.1
+1317,PROD01317,Clothing T-Shirts 1317,Clothing,T-Shirts,1084.0,1608.91
+1318,PROD01318,Electronics Mobiles 1318,Electronics,Mobiles,68559.0,89994.96
+1319,PROD01319,Furniture Chairs 1319,Furniture,Chairs,19242.0,26222.05
+1320,PROD01320,Furniture Storage 1320,Furniture,Storage,20289.0,25687.37
+1321,PROD01321,Electronics Audio 1321,Electronics,Audio,128250.0,177115.84
+1322,PROD01322,Home & Kitchen Cookware 1322,Home & Kitchen,Cookware,1666.0,2360.7
+1323,PROD01323,Home & Kitchen Appliances 1323,Home & Kitchen,Appliances,3064.0,4176.27
+1324,PROD01324,Home & Kitchen Decor 1324,Home & Kitchen,Decor,7693.0,9432.09
+1325,PROD01325,Clothing Jeans 1325,Clothing,Jeans,1888.0,2653.91
+1326,PROD01326,Home & Kitchen Appliances 1326,Home & Kitchen,Appliances,2949.0,3961.58
+1327,PROD01327,Furniture Tables 1327,Furniture,Tables,20030.0,29453.29
+1328,PROD01328,Clothing Jeans 1328,Clothing,Jeans,2053.0,2625.79
+1329,PROD01329,Home & Kitchen Cookware 1329,Home & Kitchen,Cookware,6249.0,6960.54
+1330,PROD01330,Clothing Jackets 1330,Clothing,Jackets,266.0,347.67
+1331,PROD01331,Clothing T-Shirts 1331,Clothing,T-Shirts,1430.0,2136.07
+1332,PROD01332,Furniture Tables 1332,Furniture,Tables,2711.0,3818.74
+1333,PROD01333,Clothing Jackets 1333,Clothing,Jackets,2294.0,3033.88
+1334,PROD01334,Furniture Chairs 1334,Furniture,Chairs,3236.0,4155.5
+1335,PROD01335,Furniture Chairs 1335,Furniture,Chairs,10683.0,13319.92
+1336,PROD01336,Furniture Chairs 1336,Furniture,Chairs,10396.0,14808.37
+1337,PROD01337,Electronics Accessories 1337,Electronics,Accessories,64999.0,90589.52
+1338,PROD01338,Clothing Jeans 1338,Clothing,Jeans,908.0,1176.14
+1339,PROD01339,Electronics Audio 1339,Electronics,Audio,17796.0,24777.65
+1340,PROD01340,Home & Kitchen Cookware 1340,Home & Kitchen,Cookware,6690.0,7508.65
+1341,PROD01341,Clothing Jeans 1341,Clothing,Jeans,1978.0,2505.35
+1342,PROD01342,Electronics Laptops 1342,Electronics,Laptops,10997.0,14885.04
+1343,PROD01343,Home & Kitchen Cookware 1343,Home & Kitchen,Cookware,2796.0,3662.07
+1344,PROD01344,Clothing Jackets 1344,Clothing,Jackets,2513.0,2914.66
+1345,PROD01345,Furniture Chairs 1345,Furniture,Chairs,3655.0,5005.35
+1346,PROD01346,Home & Kitchen Decor 1346,Home & Kitchen,Decor,6467.0,8653.19
+1347,PROD01347,Electronics Laptops 1347,Electronics,Laptops,121229.0,147403.94
+1348,PROD01348,Home & Kitchen Cookware 1348,Home & Kitchen,Cookware,1382.0,1706.03
+1349,PROD01349,Home & Kitchen Appliances 1349,Home & Kitchen,Appliances,6405.0,7171.84
+1350,PROD01350,Home & Kitchen Decor 1350,Home & Kitchen,Decor,996.0,1254.37
+1351,PROD01351,Home & Kitchen Appliances 1351,Home & Kitchen,Appliances,1368.0,1921.78
+1352,PROD01352,Home & Kitchen Appliances 1352,Home & Kitchen,Appliances,1922.0,2489.27
+1353,PROD01353,Furniture Storage 1353,Furniture,Storage,22184.0,33250.08
+1354,PROD01354,Furniture Chairs 1354,Furniture,Chairs,4347.0,5244.67
+1355,PROD01355,Home & Kitchen Decor 1355,Home & Kitchen,Decor,5909.0,8684.19
+1356,PROD01356,Electronics Mobiles 1356,Electronics,Mobiles,116418.0,147782.9
+1357,PROD01357,Clothing T-Shirts 1357,Clothing,T-Shirts,1513.0,1872.81
+1358,PROD01358,Electronics Audio 1358,Electronics,Audio,52369.0,78294.84
+1359,PROD01359,Home & Kitchen Appliances 1359,Home & Kitchen,Appliances,1494.0,1906.62
+1360,PROD01360,Furniture Chairs 1360,Furniture,Chairs,24457.0,30559.71
+1361,PROD01361,Electronics Mobiles 1361,Electronics,Mobiles,22296.0,26693.2
+1362,PROD01362,Furniture Tables 1362,Furniture,Tables,2450.0,3031.41
+1363,PROD01363,Electronics Audio 1363,Electronics,Audio,125980.0,162322.22
+1364,PROD01364,Clothing T-Shirts 1364,Clothing,T-Shirts,2403.0,2846.95
+1365,PROD01365,Clothing Jackets 1365,Clothing,Jackets,2178.0,2938.59
+1366,PROD01366,Furniture Storage 1366,Furniture,Storage,24896.0,34040.41
+1367,PROD01367,Home & Kitchen Appliances 1367,Home & Kitchen,Appliances,7722.0,10543.71
+1368,PROD01368,Electronics Audio 1368,Electronics,Audio,52648.0,59178.67
+1369,PROD01369,Furniture Storage 1369,Furniture,Storage,22249.0,26888.2
+1370,PROD01370,Home & Kitchen Appliances 1370,Home & Kitchen,Appliances,368.0,414.6
+1371,PROD01371,Clothing Jackets 1371,Clothing,Jackets,2903.0,3611.59
+1372,PROD01372,Electronics Mobiles 1372,Electronics,Mobiles,84675.0,122521.69
+1373,PROD01373,Home & Kitchen Cookware 1373,Home & Kitchen,Cookware,3418.0,4455.08
+1374,PROD01374,Electronics Audio 1374,Electronics,Audio,135051.0,195379.51
+1375,PROD01375,Electronics Laptops 1375,Electronics,Laptops,60133.0,78188.55
+1376,PROD01376,Home & Kitchen Appliances 1376,Home & Kitchen,Appliances,7888.0,10924.78
+1377,PROD01377,Electronics Laptops 1377,Electronics,Laptops,146783.0,179364.57
+1378,PROD01378,Home & Kitchen Decor 1378,Home & Kitchen,Decor,6398.0,7439.61
+1379,PROD01379,Clothing Jackets 1379,Clothing,Jackets,1641.0,2038.37
+1380,PROD01380,Clothing T-Shirts 1380,Clothing,T-Shirts,2253.0,2726.92
+1381,PROD01381,Electronics Audio 1381,Electronics,Audio,109494.0,159440.87
+1382,PROD01382,Electronics Audio 1382,Electronics,Audio,67135.0,77922.47
+1383,PROD01383,Home & Kitchen Appliances 1383,Home & Kitchen,Appliances,1424.0,1616.41
+1384,PROD01384,Home & Kitchen Appliances 1384,Home & Kitchen,Appliances,5854.0,7873.51
+1385,PROD01385,Furniture Tables 1385,Furniture,Tables,9876.0,13126.78
+1386,PROD01386,Home & Kitchen Decor 1386,Home & Kitchen,Decor,7752.0,10404.33
+1387,PROD01387,Home & Kitchen Appliances 1387,Home & Kitchen,Appliances,1379.0,1630.95
+1388,PROD01388,Furniture Storage 1388,Furniture,Storage,19739.0,27113.87
+1389,PROD01389,Furniture Chairs 1389,Furniture,Chairs,12125.0,16676.88
+1390,PROD01390,Furniture Tables 1390,Furniture,Tables,6756.0,9205.0
+1391,PROD01391,Furniture Tables 1391,Furniture,Tables,4222.0,5585.44
+1392,PROD01392,Electronics Laptops 1392,Electronics,Laptops,91256.0,131026.19
+1393,PROD01393,Furniture Storage 1393,Furniture,Storage,2966.0,4170.71
+1394,PROD01394,Home & Kitchen Decor 1394,Home & Kitchen,Decor,2785.0,3557.01
+1395,PROD01395,Clothing T-Shirts 1395,Clothing,T-Shirts,969.0,1107.28
+1396,PROD01396,Furniture Chairs 1396,Furniture,Chairs,22053.0,29700.51
+1397,PROD01397,Furniture Storage 1397,Furniture,Storage,9608.0,11456.24
+1398,PROD01398,Electronics Audio 1398,Electronics,Audio,28834.0,39654.15
+1399,PROD01399,Home & Kitchen Cookware 1399,Home & Kitchen,Cookware,4415.0,6350.78
+1400,PROD01400,Home & Kitchen Appliances 1400,Home & Kitchen,Appliances,5621.0,7023.91
+1401,PROD01401,Home & Kitchen Decor 1401,Home & Kitchen,Decor,4181.0,4829.08
+1402,PROD01402,Furniture Chairs 1402,Furniture,Chairs,3056.0,3861.06
+1403,PROD01403,Electronics Audio 1403,Electronics,Audio,116277.0,138255.87
+1404,PROD01404,Furniture Chairs 1404,Furniture,Chairs,4167.0,4878.85
+1405,PROD01405,Home & Kitchen Appliances 1405,Home & Kitchen,Appliances,4313.0,5931.0
+1406,PROD01406,Home & Kitchen Cookware 1406,Home & Kitchen,Cookware,3802.0,4797.92
+1407,PROD01407,Electronics Accessories 1407,Electronics,Accessories,90024.0,113219.61
+1408,PROD01408,Electronics Mobiles 1408,Electronics,Mobiles,126386.0,162122.93
+1409,PROD01409,Electronics Laptops 1409,Electronics,Laptops,143974.0,189347.07
+1410,PROD01410,Electronics Accessories 1410,Electronics,Accessories,143299.0,201487.56
+1411,PROD01411,Electronics Laptops 1411,Electronics,Laptops,84330.0,107590.03
+1412,PROD01412,Clothing Jeans 1412,Clothing,Jeans,2089.0,2437.02
+1413,PROD01413,Clothing Jackets 1413,Clothing,Jackets,423.0,582.04
+1414,PROD01414,Furniture Tables 1414,Furniture,Tables,23171.0,29674.62
+1415,PROD01415,Electronics Laptops 1415,Electronics,Laptops,43469.0,54650.39
+1416,PROD01416,Clothing Jeans 1416,Clothing,Jeans,302.0,353.81
+1417,PROD01417,Furniture Tables 1417,Furniture,Tables,4955.0,5946.16
+1418,PROD01418,Furniture Storage 1418,Furniture,Storage,6048.0,6873.41
+1419,PROD01419,Home & Kitchen Appliances 1419,Home & Kitchen,Appliances,3273.0,3711.98
+1420,PROD01420,Home & Kitchen Appliances 1420,Home & Kitchen,Appliances,6780.0,10102.72
+1421,PROD01421,Furniture Tables 1421,Furniture,Tables,20033.0,25086.18
+1422,PROD01422,Furniture Tables 1422,Furniture,Tables,20530.0,29738.16
+1423,PROD01423,Furniture Chairs 1423,Furniture,Chairs,6738.0,7893.88
+1424,PROD01424,Electronics Accessories 1424,Electronics,Accessories,88756.0,108620.24
+1425,PROD01425,Home & Kitchen Decor 1425,Home & Kitchen,Decor,5431.0,6366.64
+1426,PROD01426,Furniture Chairs 1426,Furniture,Chairs,2115.0,2853.19
+1427,PROD01427,Clothing T-Shirts 1427,Clothing,T-Shirts,2078.0,2699.43
+1428,PROD01428,Home & Kitchen Appliances 1428,Home & Kitchen,Appliances,6914.0,7621.3
+1429,PROD01429,Home & Kitchen Cookware 1429,Home & Kitchen,Cookware,2076.0,2772.59
+1430,PROD01430,Home & Kitchen Decor 1430,Home & Kitchen,Decor,3659.0,4671.63
+1431,PROD01431,Electronics Laptops 1431,Electronics,Laptops,80905.0,109052.37
+1432,PROD01432,Furniture Chairs 1432,Furniture,Chairs,8056.0,9339.34
+1433,PROD01433,Clothing T-Shirts 1433,Clothing,T-Shirts,795.0,1146.02
+1434,PROD01434,Clothing Jeans 1434,Clothing,Jeans,559.0,625.86
+1435,PROD01435,Home & Kitchen Cookware 1435,Home & Kitchen,Cookware,1621.0,2218.88
+1436,PROD01436,Furniture Tables 1436,Furniture,Tables,20971.0,26089.51
+1437,PROD01437,Electronics Mobiles 1437,Electronics,Mobiles,86458.0,106268.01
+1438,PROD01438,Home & Kitchen Cookware 1438,Home & Kitchen,Cookware,6513.0,8277.56
+1439,PROD01439,Electronics Audio 1439,Electronics,Audio,131421.0,151635.96
+1440,PROD01440,Clothing Jeans 1440,Clothing,Jeans,2358.0,2984.06
+1441,PROD01441,Furniture Storage 1441,Furniture,Storage,8850.0,11901.67
+1442,PROD01442,Electronics Mobiles 1442,Electronics,Mobiles,134789.0,187306.79
+1443,PROD01443,Clothing Jeans 1443,Clothing,Jeans,2693.0,3875.55
+1444,PROD01444,Clothing Jackets 1444,Clothing,Jackets,2555.0,3827.41
+1445,PROD01445,Clothing T-Shirts 1445,Clothing,T-Shirts,2716.0,3598.85
+1446,PROD01446,Home & Kitchen Decor 1446,Home & Kitchen,Decor,6918.0,8107.64
+1447,PROD01447,Furniture Storage 1447,Furniture,Storage,11518.0,17181.44
+1448,PROD01448,Electronics Mobiles 1448,Electronics,Mobiles,14287.0,18372.43
+1449,PROD01449,Electronics Laptops 1449,Electronics,Laptops,116693.0,147688.58
+1450,PROD01450,Clothing Jeans 1450,Clothing,Jeans,2495.0,3548.93
+1451,PROD01451,Furniture Chairs 1451,Furniture,Chairs,22991.0,27140.3
+1452,PROD01452,Clothing Jeans 1452,Clothing,Jeans,477.0,583.42
+1453,PROD01453,Clothing T-Shirts 1453,Clothing,T-Shirts,666.0,915.31
+1454,PROD01454,Clothing Jeans 1454,Clothing,Jeans,2530.0,3406.39
+1455,PROD01455,Electronics Laptops 1455,Electronics,Laptops,58860.0,72527.64
+1456,PROD01456,Clothing Jackets 1456,Clothing,Jackets,2162.0,3170.5
+1457,PROD01457,Electronics Laptops 1457,Electronics,Laptops,134221.0,155985.54
+1458,PROD01458,Home & Kitchen Appliances 1458,Home & Kitchen,Appliances,7639.0,9426.86
+1459,PROD01459,Home & Kitchen Appliances 1459,Home & Kitchen,Appliances,758.0,1087.0
+1460,PROD01460,Clothing Jackets 1460,Clothing,Jackets,2977.0,3650.4
+1461,PROD01461,Electronics Laptops 1461,Electronics,Laptops,94958.0,134822.71
+1462,PROD01462,Clothing T-Shirts 1462,Clothing,T-Shirts,811.0,983.08
+1463,PROD01463,Electronics Audio 1463,Electronics,Audio,106367.0,143659.73
+1464,PROD01464,Furniture Storage 1464,Furniture,Storage,21847.0,27436.04
+1465,PROD01465,Electronics Audio 1465,Electronics,Audio,90444.0,125168.71
+1466,PROD01466,Clothing Jeans 1466,Clothing,Jeans,555.0,720.85
+1467,PROD01467,Furniture Tables 1467,Furniture,Tables,16808.0,24065.41
+1468,PROD01468,Clothing T-Shirts 1468,Clothing,T-Shirts,2350.0,2869.18
+1469,PROD01469,Electronics Audio 1469,Electronics,Audio,17802.0,25120.69
+1470,PROD01470,Electronics Accessories 1470,Electronics,Accessories,140643.0,156110.06
+1471,PROD01471,Home & Kitchen Appliances 1471,Home & Kitchen,Appliances,1562.0,1837.04
+1472,PROD01472,Home & Kitchen Appliances 1472,Home & Kitchen,Appliances,7458.0,9765.89
+1473,PROD01473,Clothing T-Shirts 1473,Clothing,T-Shirts,602.0,860.17
+1474,PROD01474,Furniture Chairs 1474,Furniture,Chairs,3197.0,4104.14
+1475,PROD01475,Electronics Mobiles 1475,Electronics,Mobiles,89521.0,131858.61
+1476,PROD01476,Electronics Audio 1476,Electronics,Audio,130388.0,189802.47
+1477,PROD01477,Electronics Audio 1477,Electronics,Audio,13893.0,18491.92
+1478,PROD01478,Clothing Jackets 1478,Clothing,Jackets,1059.0,1300.82
+1479,PROD01479,Furniture Tables 1479,Furniture,Tables,11065.0,14527.35
+1480,PROD01480,Home & Kitchen Appliances 1480,Home & Kitchen,Appliances,1263.0,1527.04
+1481,PROD01481,Furniture Tables 1481,Furniture,Tables,5750.0,6360.09
+1482,PROD01482,Electronics Laptops 1482,Electronics,Laptops,99833.0,131754.23
+1483,PROD01483,Clothing T-Shirts 1483,Clothing,T-Shirts,1360.0,1808.3
+1484,PROD01484,Furniture Chairs 1484,Furniture,Chairs,12203.0,16416.76
+1485,PROD01485,Clothing Jackets 1485,Clothing,Jackets,2017.0,2259.63
+1486,PROD01486,Electronics Accessories 1486,Electronics,Accessories,21226.0,24247.96
+1487,PROD01487,Electronics Mobiles 1487,Electronics,Mobiles,119795.0,150554.37
+1488,PROD01488,Home & Kitchen Appliances 1488,Home & Kitchen,Appliances,3213.0,3935.85
+1489,PROD01489,Furniture Storage 1489,Furniture,Storage,23983.0,34145.08
+1490,PROD01490,Electronics Accessories 1490,Electronics,Accessories,42549.0,48385.3
+1491,PROD01491,Home & Kitchen Cookware 1491,Home & Kitchen,Cookware,4032.0,4935.8
+1492,PROD01492,Home & Kitchen Decor 1492,Home & Kitchen,Decor,2198.0,3250.8
+1493,PROD01493,Furniture Storage 1493,Furniture,Storage,10455.0,15318.09
+1494,PROD01494,Home & Kitchen Cookware 1494,Home & Kitchen,Cookware,6031.0,8846.91
+1495,PROD01495,Clothing Jeans 1495,Clothing,Jeans,2056.0,2662.53
+1496,PROD01496,Electronics Accessories 1496,Electronics,Accessories,37592.0,46635.75
+1497,PROD01497,Home & Kitchen Cookware 1497,Home & Kitchen,Cookware,2612.0,3675.55
+1498,PROD01498,Furniture Storage 1498,Furniture,Storage,5372.0,6780.94
+1499,PROD01499,Electronics Audio 1499,Electronics,Audio,26592.0,37680.13
+1500,PROD01500,Home & Kitchen Decor 1500,Home & Kitchen,Decor,5137.0,6500.24
