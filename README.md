@@ -112,7 +112,7 @@ Key features:
     
   * Distribution of Customer Order Counts
     screenshots/python/distribution_of_customers.png
-
+```
 📂 Project Structure
 Ecommerce-Analytics-RFM-CLV/
 │
