@@ -92,26 +92,26 @@ Key features:
 
 📸 Dashboard Screenshots
 🔹 E-Commerce Business Overview
-    screenshots/powerbi/overview_page.png
+    [View] (screenshots/powerbi/overview_page.png)
 
 🔹 Sales & Orders Analysis
-    screenshots/powerbi/sales_orders_page.png
+   [View] (screenshots/powerbi/sales_orders_page.png)
     
 🔹 Customer Analytics & RFM
-    screenshots/powerbi/customers_rfm_page.png
+    [View] (screenshots/powerbi/customers_rfm_page.png)
     
 🔹 Customer Lifetime Value (CLV)
-    screenshots/powerbi/clv_insights_page.png
+    [View] (screenshots/powerbi/clv_insights_page.png)
     
 📈 Python EDA & Visualization (Matplotlib / Seaborn)
   * Segment-wise Revenue, Customers & AOV
-    screenshots/python/rfm_segment_analysis.png
+    [View] (screenshots/python/rfm_segment_analysis.png)
     
   * Monthly Revenue Trend
-    screenshots/python/monthly_revenue_trend.png
+    [View] (screenshots/python/monthly_revenue_trend.png)
     
   * Distribution of Customer Order Counts
-    screenshots/python/distribution_of_customers.png
+    [View] (screenshots/python/distribution_of_customers.png)
 ```
 📂 Project Structure
 Ecommerce-Analytics-RFM-CLV/
